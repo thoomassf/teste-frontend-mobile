@@ -1,0 +1,832 @@
+{
+  "units": [
+    {
+      "id": "694717e2-e138-4f75-a8e7-e681a327aba3",
+      "name": "Matsuri Sushi",
+      "unit": "Jardins",
+      "logo": "/logos/matsuri.svg",
+      "address": "Rua B, 200",
+      "shippingPrice": 5.5,
+      "isFreeShipping": false,
+      "minimumValorFreeShipping": 17.16,
+      "minimumOrderValue": 15,
+      "classification": 4.8,
+      "distance": 7.7,
+      "estimatedTime": "32 min",
+      "preparationTime": "12 min",
+      "closingTime": "20:00",
+      "isClosed": false,
+      "menu": {
+        "products": [
+          {
+            "id": "3ce94be4-ecda-4664-8202-e56e2b50a321",
+            "name": "Niguiris",
+            "description": null,
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4db932582aca",
+                "name": "Salmão",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 10.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 15.5
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 10.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "d5f12a07-bb1f-415f-9b9f-2dfccb0883a2",
+                "name": "Atum",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 50.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 60.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 50.9,
+                "promotion": {
+                  "from": 50.9,
+                  "to": 40
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "5c794984-023f-4e6c-b54c-2bc3097d1dcd",
+                "name": "Camarão",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 45.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 56.5
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 45.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }
+            ]
+          },
+          {
+            "id": "940b22af-97ca-4de3-aaea-0af3d9c9c5e2",
+            "name": "Ceviches",
+            "description": "um prato super refrescante de peixe fatiado e marinado com limão",
+            "options": [
+              {
+                "id": "7b01ef50-559e-47b2-8fa5-73f18eb20c33",
+                "name": "Salmão",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 45.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 55.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 45.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "c783a7f8-568f-4670-b691-1a336ade0c35",
+                "name": "Tilápia",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.5                  },
+                  {
+                    "size": "Grande",
+                    "price": 25.5
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 15.5,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "3b689e85-630b-4afb-97dd-74cf013a1ccc",
+                "name": "Misto",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 30                  },
+                  {
+                    "size": "Grande",
+                    "price": 40
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 30,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }
+            ]
+          },
+          {
+            "id": "44f99436-7514-4054-b51a-5f87390cfd9c",
+            "name": "Temakis",
+            "description": "sushi em forma de cone com salmão e cream cheese",
+            "options": [
+              {
+                "id": "cb42a2f5-0a8b-4cd6-babc-e918ae87e00f",
+                "name": "Califórnia",
+                "description": "Kani, pepino e maçã ou manga",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 17                  },
+                  {
+                    "size": "Grande",
+                    "price": 25
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 17,
+                "promotion": {
+                  "from": 17,
+                  "to": 13.9
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "66b0ffad-4a21-4ca8-9aad-0fd3298051ad",
+                "name": "Califórnia",
+                "description": "Kani, pepino e maçã ou manga",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 20                  },
+                  {
+                    "size": "Grande",
+                    "price": 30
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 20.5,
+                "promotion": {
+                  "from": 20.5,
+                  "to": 20
+                },
+                "vegan": true,
+                "spicy": false
+              },
+              {
+                "id": "b2d2d3e3-6d33-4e8f-aa93-ff5fc26e0115",
+                "name": "Filadélfia",
+                "description": "Arroz, salmão fresco, cream cheese e cebolinha",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 20.9                  },
+                  {
+                    "size": "Grande",
+                    "price": 29.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 20.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "b2d2d3e3-6d33-4e8f-aa93-ff5fc26e0112",
+                "name": "Mix",
+                "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maionese, goiabada, banana, requeijão, molho de maracujá, manga, maçã e morango.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 20.9                  },
+                  {
+                    "size": "Grande",
+                    "price": 29.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 20.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": true
+              },
+              {
+                "id": "b2d2d3e3-6d33-4e8f-aa93-ff5fc26e0185",
+                "name": "Salmão picante",
+                "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 20.9                  },
+                  {
+                    "size": "Grande",
+                    "price": 29.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 20.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": true
+              }
+            ]
+          }
+        ],
+        "drinks": [
+          {
+            "id": "e9966966-5bd2-4b51-93e7-3e021e66af0b",
+            "name": "Chá Verde",
+            "price": 6
+          },
+          {
+            "id": "404849e3-8385-4cf9-b7b0-7910abfa2182",
+            "name": "Água",
+            "price": 5
+          },
+          {
+            "id": "527c3d86-e64e-4353-8db8-d918e19cfc8c",
+            "name": "Coca-cola",
+            "price": 7
+          }
+        ],
+        "desserts": [
+          {
+            "id": "a8abd628-bc59-4240-b437-8bc47a90f869",
+            "name": "Dorayaki",
+            "price": 10
+          },
+          {
+            "id": "5fbbc3fc-f75a-41c1-8a28-ee3f2d654b46",
+            "name": "Mochi",
+            "price": 25.5
+          },
+          {
+            "id": "06ff8729-182d-4ec5-a9f1-f7a9750b7b5d",
+            "name": "Tempurá de Sorvete",
+            "price": 45.9
+          }
+        ]       
+      }      
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 import "./globals.css";
 
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Nunito } from "next/font/google";
 
 const nunito = Nunito({
@@ -12,7 +12,13 @@ export const metadata: Metadata = {
   title: "Aiqfome",
   icons: {
     icon: "/favicon.ico",
-  }
+  },
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
 };
 
 export default function RootLayout({

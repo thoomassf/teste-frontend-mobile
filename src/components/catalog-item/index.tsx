@@ -48,7 +48,7 @@ export default function CatalogItem({
 }: CatalogItemProps) {
   return (
     <Accordion type="single" collapsible>
-      <AccordionItem value="item-1" className="px-4 py-3 bg-white mb-1 ">
+      <AccordionItem value="item-1" className="px-4 py-3 bg-white mb-1">
         <AccordionTrigger className="hover:no-underline">
           <div className="flex flex-col gap-1">
             <div className="flex items-center gap-2">

@@ -94,6 +94,7 @@ export default function ItemForm({
         catalogId={catalogId}
         productId={optionId}
         drinks={drinksOptions} 
+        isDetailsProduct
       />
 
       {option?.cutlery.length > 0 && (

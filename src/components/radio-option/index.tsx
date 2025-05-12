@@ -61,7 +61,7 @@ export default function RadioOptionPromotion({
             de {formatPrice(fixedValue)} por
           </span>
           <span className="text-green text-sm font-bold">
-            {additionalValue}
+            {formatPrice(additionalValue)}
           </span>
         </span>
       </div>

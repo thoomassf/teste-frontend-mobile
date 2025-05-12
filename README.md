@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Requisitos
 
-## Getting Started
+- [Node.js](https://nodejs.org/en/download/)
+- [Git](https://git-scm.com/downloads)
 
-First, run the development server:
+### Bibliotecas utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- [shadcn/ui](https://ui.shadcn.com)
+- [tailwindcss](https://tailwindcss.com)
+- [lucide-react](https://lucide.dev/guide/packages/lucide-react)
+
+## Estrutura de pastas e arquivos
+
+Este projeto foi desenvolvido em Next.js 15 (App Router)
+```
+├── app/
+│   ├── (pages)/                      # Página raiz do projeto
+│       ├── layout.tsx                # Layout base com metadata, viewport, fonts, favicon
+│       ├── page.tsx                  # Página raiz do projeto com listagem de restaurantes
+│       ├── global.css                # Arquivos com configurações do Tailwindcss e Cores customizadas do projeto
+│       └── [catalogId]/              # Rota dinâmica para o restaurante selecionado (ex: restaurante 1)
+│           ├── [product]/            # Rota dinâmica do tipo de produto selecionado do restaurante (ex: Produto Temaki)
+│           │    ├── page.tsx         # Página do produto selecionado
+│           │    └── [catalogId]/     # Rota dinâmica para a opção do produto selecionado (ex: Sabor Califórnia do produto Tekaki)
+│           │        └── page.tsx     # Página dos detalhes da opção selecionada, onde pode ser adicionado itens a mais
+│           └── ticket/               
+│               └── page.tsx          # Página do carrinho (ticket)
+│
+├── components/                  # Componentes visuais reutilizáveis
+│   ├── ui/                      # Componentes visuais reutilizáveis (botões, inputs, layout, etc.) instalados do shadcn/ui
+│
+├── contexts/                    # Centralização de contextos
+│   └── ticketContext.tsx        # Contexto global para controle do carrinho (ticket)
+│
+├── providers/                   # Centralização de providers
+│   └── ticketContext.tsx        # Contexto global para controle do carrinho (ticket)
+│
+├── hooks/
+│   ├── useProductQuantityControlInTicket.ts # Hook para controle de quantidade
+│   └── useOperationsTicket.ts               # Hook de funções auxiliares para controle do carrinho (ticket)
+│
+├── mocks/
+│   └── restaurants.json         # Dados simulados para desenvolvimento
+│
+├── lib/                         # Pasta para configuração de bibliotecas externas (ex: shadcn/ui)
+│
+├── types/                       # Pasta de tipagens reutilizáveis
+│   ├── Product.ts               # Tipagens do modelo de produto
+│   └── Product.ts               # Tipagens do modelo das opções de produto
+│
+├── utils/                       # Pasta utils para funções mais puras e reutilizáveis
+│   └── format-price.ts          # Utilitário para formatação de preço
+│
+├── public/
+│   └── logos/                   # Logos dos restaurantes│       
+│
+├── tailwind.config.ts          # Configuração do TailwindCSS
+├── components.json             # Configuração do shadcn/ui
+└── tsconfig.json               # Configuração do TypeScript
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Começando
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Clone o projeto e acesse a pasta**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+$ git clone https://github.com/thoomassf/02-ignite-timer.git && cd 02-ignite-timer
+$ gh repo clone thoomassf/02-ignite-timer && cd 02-ignite-timer
+```
 
-## Learn More
+**Siga os passos abaixo**
+```bash
+# Instalar as dependências
+npm install
+# Iniciar projeto
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+Abra em [http://localhost:3000](http://localhost:3000).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Desenvolvido por Thomas Farias 👋 [LinkedIn](https://www.linkedin.com/in/thomas-sf)

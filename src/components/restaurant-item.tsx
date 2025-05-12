@@ -33,7 +33,7 @@ export default function RestaurantItem({
 
   return (
     <div       
-      className={`flex gap-3 bg-bg-secondary mx-4 rounded-lg mb-4 cursor-pointer md:col-span-2 lg:md:col-span-1 hover:bg-bg-secondary/80 ${
+      className={`flex gap-3 bg-bg-secondary mx-4 rounded-lg mb-4 cursor-pointer md:col-span-2 lg:md:col-span-1 hover:bg-bg-tertiary transition-colors ${
         isClosed ? 'pointer-events-none' : 'opacity-100'
       }`}
       onClick={!isClosed ? handleClick : undefined}
@@ -50,7 +50,7 @@ export default function RestaurantItem({
         <h2 className="text-base font-bold text-text-primary">{title} - {unit}</h2>
         <div className="flex items-center gap-1">
           <div className="flex items-center gap-2">
-            {!isFreeShipping ? (
+            {isFreeShipping ? (
               <>
                 <Image 
                   src="/bike.svg" 

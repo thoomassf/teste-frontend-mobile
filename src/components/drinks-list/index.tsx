@@ -14,9 +14,15 @@ interface DrinkListProps {
   catalogId: string
   productId?: string
   drinks: DrinkItemProps[]
+  isDetailsProduct?: boolean
 }
 
-export default function DrinksList({ drinks, catalogId, productId }: DrinkListProps) {
+export default function DrinksList({ 
+  drinks, 
+  catalogId, 
+  productId,
+  isDetailsProduct = false
+}: DrinkListProps) {
   const { ticket, addToTicket, removeFromTicket } = useTicket()
   const [quantities, setQuantities] = useState<{ [key: string]: number }>({})
 
@@ -50,7 +56,7 @@ export default function DrinksList({ drinks, catalogId, productId }: DrinkListPr
   }
 
   return (
-    <div className="bg-white p-4">
+    <div className={`bg-white` + (isDetailsProduct ? ' p-4' : '')}>
       <h2 className="font-bold text-text-tertiary text-base">vai querer bebida ?</h2>
       <p className="font-bold text-xs text-text-secondary mb-4">escolha quantos quiser</p>
 

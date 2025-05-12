@@ -38,7 +38,7 @@ export default function Item({
 
   return (
     <div 
-      className="flex items-start justify-between mb-6"
+      className="flex items-start justify-between mb-4 rounded-lg p-2 cursor-pointer hover:bg-bg-secondary hover:transition-colors"
       onClick={handleClick}
     >
       <div>

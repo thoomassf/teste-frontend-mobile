@@ -26,7 +26,7 @@ export default async function CatalogPage({
   }
 
   return (
-    <div className="className='min-h-screen flex flex-col bg-[#EEF0F5]">
+    <div className="min-h-screen flex flex-col bg-[#EEF0F5]">
       <Header />
       
       <main className="flex-grow md:min-w-[700px] md:mx-auto lg:min-w-[1280px]">

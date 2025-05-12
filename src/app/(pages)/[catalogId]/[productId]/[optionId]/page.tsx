@@ -3,6 +3,7 @@ import { formatPrice } from "@/utils/format-price";
 
 import data from "../../../../../mocks/restaurants.json"
 import ItemForm from "./item-form";
+import Image from "next/image";
 
 export const metadata = {
   title: 'Aiqfome | Produto',
@@ -35,7 +36,13 @@ export default async function ProductPage({
     <div className="bg-[#EEF0F5]">
       <Header />
 
-      <img src="/products/ceviche.png" alt="ceviche" className="w-full" />
+      <Image 
+        src="/products/ceviche.png" 
+        alt="ceviche" 
+        width={300}
+        height={200}
+        className="w-full lg:max-w-[1280px] lg:mx-auto h-auto object-contain"
+      />
 
       <div className="flex flex-col gap-1">
         <div className="flex flex-col p-4 bg-white md:min-w-[700px] md:mx-auto lg:min-w-[1280px]">

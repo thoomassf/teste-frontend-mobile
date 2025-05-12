@@ -20,7 +20,7 @@ export default async function HomePage() {
         alt="Banner promoção de dias das crianças" 
         width={300}
         height={200}
-        className="w-full"
+        className="w-full lg:max-w-[1280px] lg:mx-auto h-auto object-contain"
       />
       <main className="flex-grow md:min-w-[700px] md:mx-auto lg:min-w-[1280px]">
 

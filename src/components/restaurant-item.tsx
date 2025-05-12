@@ -33,7 +33,7 @@ export default function RestaurantItem({
 
   return (
     <div       
-      className={`flex gap-3 bg-bg-secondary mx-4 rounded-lg mb-4 cursor-pointer hover:bg-bg-secondary/80 ${
+      className={`flex gap-3 bg-bg-secondary mx-4 rounded-lg mb-4 cursor-pointer md:col-span-2 lg:md:col-span-1 hover:bg-bg-secondary/80 ${
         isClosed ? 'pointer-events-none' : 'opacity-100'
       }`}
       onClick={!isClosed ? handleClick : undefined}

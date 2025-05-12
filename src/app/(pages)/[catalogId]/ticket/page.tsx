@@ -6,6 +6,10 @@ import SubTotalLabel from "./components/sub-total-label";
 
 import data from "../../../../mocks/restaurants.json"
 
+export const metadata = {
+  title: 'Aiqfome | Ticket',
+}
+
 /**
  * Renders the ticket page for a specific restaurant catalog
  * 
@@ -31,10 +35,10 @@ export default async function TicketPage({
   }
 
   return (
-    <div>
+    <div className="">
       <Header />
 
-      <div className="py-6 px-4">
+      <main className="flex flex-col py-6 px-4 md:w-[600px] md:mx-auto lg:w-[1200px]">
         <div className="flex gap-2">
           <Image 
             src={restaurant.logo} 
@@ -52,17 +56,17 @@ export default async function TicketPage({
           <TicketList catalogId={catalogId} />
         </div>
 
-        <div className="fixed bottom-0 w-full flex justify-center pb-4 gap-7 border-t rounded-md shadow">
+        <div className="absolute bottom-0 w-full bg-white border-t z-50 py-4 px-6 flex flex-row items-center justify-center gap-3 md:px-10 md:max-w-[700px] md:mx-auto lg:max-w-[1200px]">
           <div className="">
-            <h4 className="font-bold text-text-tertiary text-xs">subtotal</h4>
+            <h4 className="font-bold text-text-tertiary text-xs uppercase tracking-wide">subtotal</h4>
             <SubTotalLabel />
           </div>
 
-          <button className="text-bold text-white text-sm bg-purple px-10 py-4 rounded-md hover:cursor-pointer hover:bg-purple/90 hover:transition-colors">
+          <button className="text-white font-bold bg-purple px-10 py-4 rounded-md hover:bg-purple/90 transition-colors">
             ir para pagamento
           </button>
         </div>
-      </div>
+      </main>
     </div>
   )
 }

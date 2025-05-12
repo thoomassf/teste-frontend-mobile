@@ -1,14 +1,14 @@
 export default function Header() {
   return (
     <div className="w-full h-[72px] bg-purple flex flex-col">
-      <div className="flex items-center justify-between p-4 gap-6">
+      <div className="flex items-center justify-between p-4 gap-6 md:min-w-[700px] md:mx-auto lg:min-w-[1280px]">
         <div>
           <img src="/logo.svg" alt="Logo" />
         </div>
         
         <div className="flex flex-row gap-2.5 mr-10">
           <img src="/point-icon.svg" alt="Logo" />
-          <div className="flex flex-col gap-0.5 items-start">
+          <div className="flex flex-col gap-0.5 items-start md:flex-row md:items-center md:gap-2">
             <p className="text-sm font-bold text-purple-light">entregando em</p>
             <div className="flex gap-2">
               <p className="text-base font-bold text-white">Rua Mandaguari, 198</p>

@@ -827,6 +827,3959 @@
           }
         ]       
       }      
+    },
+    {
+      "id": "06a43693-cc1f-42a9-bd27-1ad05bb23fee",
+      "name": "Matsuri Sushi",
+      "unit": "Pinheiros",
+      "logo": "/logos/matsuri.svg",
+      "address": "Rua E, 500",
+      "shippingPrice": 10,
+      "isFreeShipping": false,
+      "minimumValorFreeShipping": 206,
+      "minimumOrderValue": 20,
+      "classification": 4.6,
+      "distance": 7.3,
+      "estimatedTime": "37 min",
+      "preparationTime": "13 min",
+      "closingTime": "00:00",
+      "isClosed": false,
+      "menu": {
+        "products": [
+          {
+            "id": "3ce94be4-ecda-4664-8202-e56e2b50a321",
+            "name": "Niguiris",
+            "description": null,
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4db932582aca",
+                "name": "Salmão",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 10.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 15.5
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 10.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "d5f12a07-bb1f-415f-9b9f-2dfccb0883a2",
+                "name": "Atum",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 50.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 60.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 50.9,
+                "promotion": {
+                  "from": 50.9,
+                  "to": 40
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "5c794984-023f-4e6c-b54c-2bc3097d1dcd",
+                "name": "Camarão",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 45.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 56.5
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 45.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }
+            ]
+          },
+          {
+            "id": "940b22af-97ca-4de3-aaea-0af3d9c9c5e2",
+            "name": "Ceviches",
+            "description": "um prato super refrescante de peixe fatiado e marinado com limão",
+            "options": [
+              {
+                "id": "7b01ef50-559e-47b2-8fa5-73f18eb20c33",
+                "name": "Salmão",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 45.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 55.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 45.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "c783a7f8-568f-4670-b691-1a336ade0c35",
+                "name": "Tilápia",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.5                  },
+                  {
+                    "size": "Grande",
+                    "price": 25.5
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 15.5,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "3b689e85-630b-4afb-97dd-74cf013a1ccc",
+                "name": "Misto",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 30                  },
+                  {
+                    "size": "Grande",
+                    "price": 40
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 30,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }
+            ]
+          },
+          {
+            "id": "44f99436-7514-4054-b51a-5f87390cfd9c",
+            "name": "Temakis",
+            "description": "sushi em forma de cone com salmão e cream cheese",
+            "options": [
+              {
+                "id": "cb42a2f5-0a8b-4cd6-babc-e918ae87e00f",
+                "name": "Califórnia",
+                "description": "Kani, pepino e maçã ou manga",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 17                  },
+                  {
+                    "size": "Grande",
+                    "price": 25
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 17,
+                "promotion": {
+                  "from": 17,
+                  "to": 13.9
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "66b0ffad-4a21-4ca8-9aad-0fd3298051ad",
+                "name": "Califórnia",
+                "description": "Kani, pepino e maçã ou manga",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 20                  },
+                  {
+                    "size": "Grande",
+                    "price": 30
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 20.5,
+                "promotion": {
+                  "from": 20.5,
+                  "to": 20
+                },
+                "vegan": true,
+                "spicy": false
+              },
+              {
+                "id": "b2d2d3e3-6d33-4e8f-aa93-ff5fc26e0115",
+                "name": "Filadélfia",
+                "description": "Arroz, salmão fresco, cream cheese e cebolinha",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 20.9                  },
+                  {
+                    "size": "Grande",
+                    "price": 29.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 20.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "b2d2d3e3-6d33-4e8f-aa93-ff5fc26e0112",
+                "name": "Mix",
+                "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maionese, goiabada, banana, requeijão, molho de maracujá, manga, maçã e morango.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 20.9                  },
+                  {
+                    "size": "Grande",
+                    "price": 29.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 20.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": true
+              },
+              {
+                "id": "b2d2d3e3-6d33-4e8f-aa93-ff5fc26e0185",
+                "name": "Salmão picante",
+                "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 20.9                  },
+                  {
+                    "size": "Grande",
+                    "price": 29.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 20.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": true
+              }
+            ]
+          }
+        ],
+        "drinks": [
+          {
+            "id": "e9966966-5bd2-4b51-93e7-3e021e66af0b",
+            "name": "Chá Verde",
+            "price": 6
+          },
+          {
+            "id": "404849e3-8385-4cf9-b7b0-7910abfa2182",
+            "name": "Água",
+            "price": 5
+          },
+          {
+            "id": "527c3d86-e64e-4353-8db8-d918e19cfc8c",
+            "name": "Coca-cola",
+            "price": 7
+          }
+        ],
+        "desserts": [
+          {
+            "id": "a8abd628-bc59-4240-b437-8bc47a90f869",
+            "name": "Dorayaki",
+            "price": 10
+          },
+          {
+            "id": "5fbbc3fc-f75a-41c1-8a28-ee3f2d654b46",
+            "name": "Mochi",
+            "price": 25.5
+          },
+          {
+            "id": "06ff8729-182d-4ec5-a9f1-f7a9750b7b5d",
+            "name": "Tempurá de Sorvete",
+            "price": 45.9
+          }
+        ]       
+      }      
+    },
+    {
+      "id": "7fa80d5d-3369-4750-87fc-ac24c7fc0ade",
+      "name": "Subway",
+      "unit": "Unidade 1",
+      "logo": "/logos/subway.svg",
+      "address": "Rua Subway, 100",
+      "shippingPrice": 5.5,
+      "isFreeShipping": false,
+      "minimumValorFreeShipping": 17.16,
+      "minimumOrderValue": 15,
+      "classification": 4.8,
+      "distance": 7.7,
+      "estimatedTime": "32 min",
+      "preparationTime": "12 min",
+      "closingTime": "20:00",
+      "isClosed": false,
+      "menu": {
+        "products": [
+          {
+            "id": "3ce94be4-ecda-4664-8202-e1w11w4d8w1w1d3",
+            "name": "Combos",
+            "description": "Sanduíche, batata frita e refrigerante",
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-41d5w1d65w1d6w8949a",
+                "name": "Sub de Frango",
+                "description": "Sanduíche de frango grelhado com vegetais e molho à escolha.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 29.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 30.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 29.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "d5f12a07-bb1f-415f-d21dw651dw6513a2",
+                "name": "Sub de Atum",
+                "description": "Sanduíche com pasta de atum e vegetais frescos.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 27.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 37.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 27.9,
+                "promotion": {
+                  "from": 27.9,
+                  "to": 24.9
+                },
+                "vegan": false,
+                "spicy": false
+              }              
+            ]
+          },
+          {
+            "id": "940b22af-97ca-4de3-aaea-0af12wd51w65d3wwd2",
+            "name": "Sanduíches",
+            "description": "Apenas o Sanduíche mais saboroso que você já experimentou!",
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-11dw1dw12aca",
+                 "name": "Sub de Frango",
+                 "description": "Sanduíche de frango grelhado com vegetais e molho à escolha.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4ddw1d56w16ca",
+                "name": "Sub de Atum",
+                "description": "Sanduíche com pasta de atum e vegetais frescos.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }              
+            ]
+          }          
+        ],
+        "drinks": [
+          {
+            "id": "c3e8a807-5ca7-4611-9d2e-7284ebf6d19a",
+            "name": "Suco Natural",
+            "price": 7.0
+          },
+          {
+            "id": "cc197f82-cbf6-4b98-b4d4-2faf0000ad7a",
+            "name": "Água Mineral",
+            "price": 4.0
+          }
+        ],
+        "desserts": [
+          {
+            "id": "3be32553-3d76-43aa-aab4-058821c4ee8c",
+            "name": "Cookie de Chocolate",
+            "price": 4.5
+          },
+          {
+            "id": "84e5873f-2042-416c-93d7-7901e51f5153",
+            "name": "Brownie",
+            "price": 6.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "988d7b6d-1b0d-4899-a9e7-cfb715f17897",
+      "name": "McDonald's",
+      "unit": "Loja 1",
+      "logo": "/logos/mc-donalds.svg",
+      "address": "Av. McDonald's, 100",
+      "shippingPrice": 5.5,
+      "isFreeShipping": false,
+      "minimumValorFreeShipping": 17.16,
+      "minimumOrderValue": 15,
+      "classification": 4.8,
+      "distance": 7.7,
+      "estimatedTime": "32 min",
+      "preparationTime": "12 min",
+      "closingTime": "20:00",
+      "isClosed": false,
+      "menu": {
+        "products": [
+          {
+            "id": "3ce94be4-ecda-4664-8202-e56e2b50a321",
+            "name": "Combos",
+            "description": "Hamburguer, batata frita e refrigerante",
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4db932582aca",
+                "name": "Bic Mac",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 29.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 30.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 29.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "d5f12a07-bb1f-415f-9b9f-2dfccb0883a2",
+                "name": "Cheddar Melt",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 27.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 37.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 27.9,
+                "promotion": {
+                  "from": 27.9,
+                  "to": 24.9
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "5c794984-023f-4e6c-b54c-2bc3097d1dcd",
+                "name": "Quarteirão",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 25.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 35.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 25.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }
+            ]
+          },
+          {
+            "id": "940b22af-97ca-4de3-aaea-0af3d9c9c5e2",
+            "name": "Hambúrguer",
+            "description": "Apenas o hambúrguer mais saboroso que você já experimentou!",
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4db932582aca",
+                "name": "Bic Mac",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4db9325ddd36ca",
+                "name": "Cheddar Melt",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4db9dwdw62ca",
+                "name": "Quarteirão",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }
+            ]
+          }          
+        ],
+        "drinks": [
+          {
+            "id": "a7375a76-7f46-44e3-9b7f-79040285e182",
+            "name": "Coca-Cola",
+            "price": 7.0
+          },
+          {
+            "id": "508db480-5028-401e-83a8-ae02e367379a",
+            "name": "Del Valle Suco de Laranja",
+            "price": 6.5
+          },
+          {
+            "id": "508db480-5028-401e-83a8-ae02e367379a",
+            "name": "Del Valle Suco de Uva",
+            "price": 6.5
+          }
+        ],
+        "desserts": [
+          {
+            "id": "71831679-3bb3-4c2c-bd94-56f721b41a32",
+            "name": "Sundae",
+            "price": 10.0
+          },
+          {
+            "id": "184f5305-2d92-4efc-b61f-f15120301bad",
+            "name": "Casquinha",
+            "price": 5.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "42fab21b-044e-4b68-a7d0-de19ee92280d",
+      "name": "Burger King",
+      "unit": "BK 1",
+      "logo": "/logos/burger-king.svg",
+      "address": "Av. BK, 100",
+      "shippingPrice": 5.5,
+      "isFreeShipping": false,
+      "minimumValorFreeShipping": 17.16,
+      "minimumOrderValue": 15,
+      "classification": 4.8,
+      "distance": 7.7,
+      "estimatedTime": "32 min",
+      "preparationTime": "12 min",
+      "closingTime": "20:00",
+      "isClosed": false,
+      "menu": {
+        "products": [
+          {
+            "id": "3ce94be4-ecda-4664-8202-e564648941121",
+            "name": "Combos",
+            "description": "Hamburguer, batata frita e refrigerante",
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4dv334146548949a",
+                "name": "Whopper",
+                "description": "Hambúrguer grelhado no fogo com vegetais frescos e maionese.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 29.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 30.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 29.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "d5f12a07-bb1f-415f-dwdw535154843213a2",
+                "name": "Chicken Sandwich",
+                "description": "Sanduíche de frango empanado com alface e maionese.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 27.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 37.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 27.9,
+                "promotion": {
+                  "from": 27.9,
+                  "to": 24.9
+                },
+                "vegan": false,
+                "spicy": false
+              }              
+            ]
+          },
+          {
+            "id": "940b22af-97ca-4de3-aaea-0aff1w5d1wd2",
+            "name": "Hambúrguer",
+            "description": "Apenas o hambúrguer mais saboroso que você já experimentou!",
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-11dw5d1w56ds82aca",
+                "name": "Whopper",
+                "description": "Hambúrguer grelhado no fogo com vegetais frescos e maionese.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4db1dw1d5w1d65ddd36ca",
+                "name": "Chicken Sandwich",
+                "description": "Sanduíche de frango empanado com alface e maionese.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }              
+            ]
+          }          
+        ],
+        "drinks": [
+          {
+            "id": "724831e9-82e3-445a-8205-4ae8b2a66eb3",
+            "name": "Pepsi",
+            "price": 6.5
+          },
+          {
+            "id": "51bd5511-3f42-48fe-82b5-79b1b36dcafe",
+            "name": "Guaraná Antarctica",
+            "price": 6.0
+          }
+        ],
+        "desserts": [
+          {
+            "id": "de62dbe3-d0ef-4734-9d5f-89973ece8aa4",
+            "name": "BK Mix",
+            "price": 10.0
+          },
+          {
+            "id": "8548c1df-33e3-4225-876c-d3f3053953ad",
+            "name": "Sundae",
+            "price": 7.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "4a47d57f-a077-464f-8be9-fee736f66f2e",
+      "name": "McDonald's",
+      "unit": "Loja 2",
+      "logo": "/logos/mc-donalds.svg",
+      "address": "Av. McDonald's, 150",
+      "shippingPrice": 10,
+      "isFreeShipping": false,
+      "minimumValorFreeShipping": 206,
+      "minimumOrderValue": 20,
+      "classification": 4.6,
+      "distance": 7.3,
+      "estimatedTime": "37 min",
+      "preparationTime": "13 min",
+      "closingTime": "00:00",
+      "isClosed": false,
+      "menu": {
+        "products": [
+          {
+            "id": "3ce94be4-ecda-4664-8202-e56e2242421",
+            "name": "Combos",
+            "description": "Hamburguer, batata frita e refrigerante",
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4dv334vd82aca",
+                "name": "Bic Mac",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 29.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 30.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 29.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "d5f12a07-bb1f-415f-dwdw53325ccb0883a2",
+                "name": "Cheddar Melt",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 27.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 37.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 27.9,
+                "promotion": {
+                  "from": 27.9,
+                  "to": 24.9
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "5c794984-023f-4e6c-b54c-2bc3geg333t31dcd",
+                "name": "Quarteirão",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 25.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 35.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 25.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }
+            ]
+          },
+          {
+            "id": "940b22af-97ca-4de3-aaea-0afffwf353535e2",
+            "name": "Hambúrguer",
+            "description": "Apenas o hambúrguer mais saboroso que você já experimentou!",
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4dd2242rfs82aca",
+                "name": "Bic Mac",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4db9325ddd36ca",
+                "name": "Cheddar Melt",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4db9dwdw62ca",
+                "name": "Quarteirão",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }
+            ]
+          }          
+        ],
+        "drinks": [
+          {
+            "id": "a7375a76-7f46-44e3-9b7f-7dwdw2382",
+            "name": "Coca-Cola",
+            "price": 7.0
+          },
+          {
+            "id": "508db480-5028-401e-83a8-ae02d224379a",
+            "name": "Del Valle Suco de Laranja",
+            "price": 6.5
+          },
+          {
+            "id": "508db480-5028-401e-83a8-a1353f367379a",
+            "name": "Del Valle Suco de Uva",
+            "price": 6.5
+          }
+        ],
+        "desserts": [
+          {
+            "id": "71831679-3bb3-4c2c-bd94-56f71541ccdc1a32",
+            "name": "Sundae",
+            "price": 10.0
+          },
+          {
+            "id": "184f5305-2d92-4efc-b61f-f15135312rcc1bad",
+            "name": "Casquinha",
+            "price": 5.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "cb65c21d-0ab2-4206-bc90-8f2e3d2101ea",
+      "name": "Matsuri Sushi",
+      "unit": "Centro",
+      "logo": "/logos/matsuri.svg",
+      "address": "Rua A, 100",
+      "shippingPrice": 8.9,
+      "isFreeShipping": true,
+      "minimumValorFreeShipping": 22,
+      "minimumOrderValue": 15,
+      "classification": 4.1,
+      "distance": 1.5,
+      "estimatedTime": "42 min",
+      "preparationTime": "12 min",
+      "closingTime": "20:00",
+      "isClosed": true,
+      "menu": {
+        "products": [
+          {
+            "id": "3ce94be4-ecda-4664-8202-e56e2b50a321",
+            "name": "Niguiris",
+            "description": null,
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4db932582aca",
+                "name": "Salmão",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 10.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 15.5
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 10.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "d5f12a07-bb1f-415f-9b9f-2dfccb0883a2",
+                "name": "Atum",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 50.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 60.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 50.9,
+                "promotion": {
+                  "from": 50.9,
+                  "to": 40
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "5c794984-023f-4e6c-b54c-2bc3097d1dcd",
+                "name": "Camarão",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 45.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 56.5
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 45.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }
+            ]
+          },
+          {
+            "id": "940b22af-97ca-4de3-aaea-0af3d9c9c5e2",
+            "name": "Ceviches",
+            "description": "um prato super refrescante de peixe fatiado e marinado com limão",
+            "options": [
+              {
+                "id": "7b01ef50-559e-47b2-8fa5-73f18eb20c33",
+                "name": "Salmão",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 45.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 55.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 45.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "c783a7f8-568f-4670-b691-1a336ade0c35",
+                "name": "Tilápia",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.5                  },
+                  {
+                    "size": "Grande",
+                    "price": 25.5
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 15.5,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "3b689e85-630b-4afb-97dd-74cf013a1ccc",
+                "name": "Misto",
+                "description": null,
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 30                  },
+                  {
+                    "size": "Grande",
+                    "price": 40
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 30,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }
+            ]
+          },
+          {
+            "id": "44f99436-7514-4054-b51a-5f87390cfd9c",
+            "name": "Temakis",
+            "description": "sushi em forma de cone com salmão e cream cheese",
+            "options": [
+              {
+                "id": "cb42a2f5-0a8b-4cd6-babc-e918ae87e00f",
+                "name": "Califórnia",
+                "description": "Kani, pepino e maçã ou manga",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 17                  },
+                  {
+                    "size": "Grande",
+                    "price": 25
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 17,
+                "promotion": {
+                  "from": 17,
+                  "to": 13.9
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "66b0ffad-4a21-4ca8-9aad-0fd3298051ad",
+                "name": "Califórnia",
+                "description": "Kani, pepino e maçã ou manga",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 20                  },
+                  {
+                    "size": "Grande",
+                    "price": 30
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 20.5,
+                "promotion": {
+                  "from": 20.5,
+                  "to": 20
+                },
+                "vegan": true,
+                "spicy": false
+              },
+              {
+                "id": "b2d2d3e3-6d33-4e8f-aa93-ff5fc26e0115",
+                "name": "Filadélfia",
+                "description": "Arroz, salmão fresco, cream cheese e cebolinha",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 20.9                  },
+                  {
+                    "size": "Grande",
+                    "price": 29.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 20.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "b2d2d3e3-6d33-4e8f-aa93-ff5fc26e0112",
+                "name": "Mix",
+                "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maionese, goiabada, banana, requeijão, molho de maracujá, manga, maçã e morango.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 20.9 
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 29.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 20.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": true
+              },
+              {
+                "id": "b2d2d3e3-6d33-4e8f-aa93-ff5fc26e0185",
+                "name": "Salmão picante",
+                "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 20.9                  },
+                  {
+                    "size": "Grande",
+                    "price": 29.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "shoyu",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Gengibre",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "Wasabi",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": false,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "Hashi",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "biscoito da sorte",
+                    "price": 2
+                  },
+                  {
+                    "id": "2",
+                    "name": "rolinho primavera",
+                    "price": 8
+                  },
+                  {
+                    "id": "3",
+                    "name": "guioza",
+                    "price": 6
+                  }
+                ],
+                "price": 20.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": true
+              }
+            ]
+          }
+        ],
+        "drinks": [
+          {
+            "id": "e9966966-5bd2-4b51-93e7-3e021e66af0b",
+            "name": "Chá Verde",
+            "price": 6
+          },
+          {
+            "id": "404849e3-8385-4cf9-b7b0-7910abfa2182",
+            "name": "Água",
+            "price": 5
+          },
+          {
+            "id": "527c3d86-e64e-4353-8db8-d918e19cfc8c",
+            "name": "Coca-cola",
+            "price": 7
+          }
+        ],
+        "desserts": [
+          {
+            "id": "a8abd628-bc59-4240-b437-8bc47a90f869",
+            "name": "Dorayaki",
+            "price": 10
+          },
+          {
+            "id": "5fbbc3fc-f75a-41c1-8a28-ee3f2d654b46",
+            "name": "Mochi",
+            "price": 25.5
+          },
+          {
+            "id": "06ff8729-182d-4ec5-a9f1-f7a9750b7b5d",
+            "name": "Tempurá de Sorvete",
+            "price": 45.9
+          }
+        ]       
+      }      
+    },
+    {
+      "id": "5e0f3ca3-29cf-42c5-9718-1c3f98a3ffc3",
+      "name": "Burger King",
+      "unit": "BK 2",
+      "logo": "/logos/burger-king.svg",
+      "address": "Av. BK, 150",
+      "shippingPrice": 10,
+      "isFreeShipping": false,
+      "minimumValorFreeShipping": 206,
+      "minimumOrderValue": 20,
+      "classification": 4.6,
+      "distance": 7.3,
+      "estimatedTime": "37 min",
+      "preparationTime": "13 min",
+      "closingTime": "00:00",
+      "isClosed": false,
+      "menu": {
+        "products": [
+          {
+            "id": "3ce94be4-ecda-4664-8202-e1w1d3w1d32w1d3",
+            "name": "Combos",
+            "description": "Hamburguer, batata frita e refrigerante",
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-41d5w1d35w548949a",
+                "name": "Whopper",
+                "description": "Hambúrguer grelhado no fogo com vegetais frescos e maionese.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 29.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 30.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 29.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "d5f12a07-bb1f-415f-d21dw62d65w843213a2",
+                "name": "Chicken Sandwich",
+                "description": "Sanduíche de frango empanado com alface e maionese.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 27.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 37.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 27.9,
+                "promotion": {
+                  "from": 27.9,
+                  "to": 24.9
+                },
+                "vegan": false,
+                "spicy": false
+              }              
+            ]
+          },
+          {
+            "id": "940b22af-97ca-4de3-aaea-0aff1w1dw51d23wwd2",
+            "name": "Hambúrguer",
+            "description": "Apenas o hambúrguer mais saboroso que você já experimentou!",
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-11d2ddwdw6ds82aca",
+                "name": "Whopper",
+                "description": "Hambúrguer grelhado no fogo com vegetais frescos e maionese.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4d1wd1w56d136ca",
+                "name": "Chicken Sandwich",
+                "description": "Sanduíche de frango empanado com alface e maionese.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }              
+            ]
+          }          
+        ],
+        "drinks": [
+          {
+            "id": "724831e9-82e3-445a-8205-4ae8b2a66eb3",
+            "name": "Pepsi",
+            "price": 6.5
+          },
+          {
+            "id": "51bd5511-3f42-48fe-82b5-79b1b36dcafe",
+            "name": "Guaraná Antarctica",
+            "price": 6.0
+          }
+        ],
+        "desserts": [
+          {
+            "id": "de62dbe3-d0ef-4734-9d5f-89973ece8aa4",
+            "name": "BK Mix",
+            "price": 10.0
+          },
+          {
+            "id": "8548c1df-33e3-4225-876c-d3f3053953ad",
+            "name": "Sundae",
+            "price": 7.0
+          }
+        ]
+      }
+    },
+    {
+      "id": "88d60369-29da-4132-9935-6ea646038164",
+      "name": "Subway",
+      "unit": "Unidade 2",
+      "logo": "/logos/subway.svg",
+      "address": "Rua Subway, 150",
+      "shippingPrice": 10,
+      "isFreeShipping": false,
+      "minimumValorFreeShipping": 206,
+      "minimumOrderValue": 20,
+      "classification": 4.6,
+      "distance": 7.3,
+      "estimatedTime": "37 min",
+      "preparationTime": "13 min",
+      "closingTime": "00:00",
+      "isClosed": false,
+      "menu": {
+        "products": [
+          {
+            "id": "3ce94be4-ecda-4664-8202-e1w11w32d96w2dd3",
+            "name": "Combos",
+            "description": "Sanduíche, batata frita e refrigerante",
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-41d5w11d5w1d68949a",
+                "name": "Sub de Frango",
+                "description": "Sanduíche de frango grelhado com vegetais e molho à escolha.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 29.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 30.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 29.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "d5f12a07-bb1f-415f-d221dw16d5w6513a2",
+                "name": "Sub de Atum",
+                "description": "Sanduíche com pasta de atum e vegetais frescos.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 27.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 37.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 27.9,
+                "promotion": {
+                  "from": 27.9,
+                  "to": 24.9
+                },
+                "vegan": false,
+                "spicy": false
+              }              
+            ]
+          },
+          {
+            "id": "940b22af-97ca-4de3-aaea-0af122d3w612dwd2",
+            "name": "Sanduíches",
+            "description": "Apenas o Sanduíche mais saboroso que você já experimentou!",
+            "options": [
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-11d2d32w1g1aca",
+                 "name": "Sub de Frango",
+                 "description": "Sanduíche de frango grelhado com vegetais e molho à escolha.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              },
+              {
+                "id": "7caa8125-b06c-4a6e-87dc-4ddwd21w3d1ca",
+                "name": "Sub de Atum",
+                "description": "Sanduíche com pasta de atum e vegetais frescos.",
+                "sizes": [
+                  {
+                    "size": "Médio",
+                    "price": 15.9
+                  },
+                  {
+                    "size": "Grande",
+                    "price": 20.9
+                  }
+                ],
+                "sideDishes": [
+                  {
+                    "id": "1",
+                    "name": "ketchup",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "mostarda",
+                    "price": 0
+                  },
+                  {
+                    "id": "3",
+                    "name": "maionese",
+                    "price": 0
+                  }
+                ],
+                "drinkIncluded": true,
+                "cutlery": [
+                  {
+                    "id": "1",
+                    "name": "guardanapo",
+                    "price": 0
+                  },
+                  {
+                    "id": "2",
+                    "name": "Garfo e faca descartável",
+                    "price": 1
+                  }
+                ],
+                "additionalRequest": [
+                  {
+                    "id": "1",
+                    "name": "Bacon",
+                    "price": 8
+                  },
+                  {
+                    "id": "2",
+                    "name": "Chedar",
+                    "price": 6
+                  },
+                  {
+                    "id": "3",
+                    "name": "Carne",
+                    "price": 10
+                  }
+                ],
+                "price": 15.9,
+                "promotion": {
+                  "from": null,
+                  "to": null
+                },
+                "vegan": false,
+                "spicy": false
+              }              
+            ]
+          }          
+        ],
+        "drinks": [
+          {
+            "id": "c3e8a807-5ca7-4611-9d2e-71d3w1dd19a",
+            "name": "Suco Natural",
+            "price": 7.0
+          },
+          {
+            "id": "cc197f82-cbf6-4b98-b4d4-2fa32dw2da",
+            "name": "Água Mineral",
+            "price": 4.0
+          }
+        ],
+        "desserts": [
+          {
+            "id": "3be32553-3d76-43aa-aab4-05881d23w1d8c",
+            "name": "Cookie de Chocolate",
+            "price": 4.5
+          },
+          {
+            "id": "84e5873f-2042-416c-93d7-7901d3521w5153",
+            "name": "Brownie",
+            "price": 6.0
+          }
+        ]
+      }
     }
   ]
 }

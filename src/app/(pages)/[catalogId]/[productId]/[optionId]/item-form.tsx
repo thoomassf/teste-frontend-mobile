@@ -56,7 +56,7 @@ export default function ItemForm({
   }
 
   return (
-    <div className="flex flex-col gap-1">
+    <div className="flex flex-col gap-1 md:min-w-[700px] md:mx-auto lg:min-w-[1280px]">
       <div className="flex items-center justify-between -mt-1 p-4 bg-white">
         <div>
           <h2 className="font-bold text-base text-text-primary">quantos?</h2>

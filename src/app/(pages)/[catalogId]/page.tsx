@@ -8,6 +8,10 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import DrinksList from "@/components/drinks-list";
 import Item from "@/components/catalog-item/item";
 
+export const metadata = {
+  title: 'Aiqfome | Catálogo',
+}
+
 export default async function CatalogPage({
   params,
 }: {
@@ -25,7 +29,7 @@ export default async function CatalogPage({
     <div className="className='min-h-screen flex flex-col bg-[#EEF0F5]">
       <Header />
       
-      <main className="flex-grow">
+      <main className="flex-grow md:min-w-[700px] md:mx-auto lg:min-w-[1280px]">
         <RestaurantInfo 
           name={restaurant.name}
           unit={restaurant.unit}

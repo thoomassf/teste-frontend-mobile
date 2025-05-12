@@ -8,7 +8,7 @@ export default function ViewTicketFooter({ onClickViewTicket }: ViewTicketFooter
       <p className="text-sm font-bold mb-4">feito com 💜 em maringá-PR</p>
       <button 
         onClick={onClickViewTicket}
-        className="px-6 mb-4 w-full h-[48px] rounded-md bg-purple text-white text-base cursor-pointer"
+        className="px-6 mb-4 w-full h-[48px] rounded-md bg-purple text-white text-base cursor-pointer lg:w-[380px]"
       >
         Ver Ticket
       </button>

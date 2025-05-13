@@ -1,9 +1,9 @@
 'use client'
 
+import { Minus, Plus, Trash2 } from "lucide-react"
 import { useTicket } from "@/contexts/ticketContext"
+import { useProductQuantityControlInTicket } from "@/hooks/useProductQuantityControlInTicket"
 import type { Product } from "@/types/Product"
-import { Plus, Trash2 } from "lucide-react"
-import { useEffect, useState } from "react"
 
 interface AddTicketProps {
   catalogId: string
@@ -20,26 +20,15 @@ interface AddTicketProps {
  * @returns {JSX.Element} A button or control group for adding/managing product quantity in the ticket
  */
 export default function AddTicket({ catalogId, product }: AddTicketProps) {
-  const { ticket, addToTicket, removeFromTicket } = useTicket()
-  const [count, setCount] = useState(1)
-
   const { id, name, price, quantity } = product
 
   /**
-   * Updates the local count state based on the current ticket's product quantity.
+   * Destructures ticket-related methods from the ticket context.
    * 
-   * @description Finds the product in the ticket for the current catalog and updates
-   * the local count state to reflect its quantity. If no matching product is found,
-   * sets the count to 0.
-   * 
-   * @effect Synchronizes the local count with the ticket's product quantity
+   * @description Extracts functions for adding and removing products from the ticket.
+   * @returns {Object} An object containing methods to manipulate ticket contents.
    */
-  useEffect(() => {
-    const catalog = ticket.find(t => t.catalogId === catalogId)
-    const product = catalog?.products.find(p => p.id === id)
-
-    setCount(product?.quantity || 0)
-  }, [ticket, catalogId, id])
+  const { addToTicket, removeFromTicket } = useTicket()
 
   /**
    * Adds the current product to the ticket with its associated catalog ID.
@@ -55,6 +44,21 @@ export default function AddTicket({ catalogId, product }: AddTicketProps) {
       quantity
     })
   }
+
+  /**
+   * Extracts product quantity control hooks and methods for a specific product in a ticket context.
+   * 
+   * @param {Object} options - Configuration options for quantity control
+   * @param {string} options.catalogId - The identifier of the current catalog
+   * @param {string} options.productId - The unique identifier of the product
+   * 
+   * @returns {Object} An object containing the current product count and methods to increment/decrement the quantity
+   */
+  const { 
+    count, 
+    handleIncrementProduct, 
+    handleDecrementProduct   
+  } = useProductQuantityControlInTicket({ catalogId, productId: id })
 
   return (
     <>
@@ -74,11 +78,21 @@ export default function AddTicket({ catalogId, product }: AddTicketProps) {
             <Trash2 className="size-5" />
           </button>
 
+          <button 
+            className={`w-5 h-5 flex items-center justify-center rounded-full border ${
+              count === 0 ? 'bg-[#EEF0F5] text-[#A8ADB7] cursor-not-allowed' : 'border-water-green-500 text-water-green-500 hover:cursor-pointer hover:border-water-green-700 hover:text-water-green-700 hover:transition-colors'
+            }`}
+            onClick={handleDecrementProduct}
+            disabled={count === 0}
+          >
+            <Minus className="size-4" />
+          </button>
+
           <span className="font-bold text-sm text-text-primary">{count}</span>
 
           <button 
             className="w-5 h-5 flex items-center justify-center border border-water-green-500 rounded-full text-water-green-500 cursor-pointer" 
-            onClick={handleAddToTicket}
+            onClick={handleIncrementProduct}
           >
             <Plus className="size-3" />
           </button>

@@ -3,8 +3,8 @@ import Link from "next/link";
 
 export default function Header() {
   return (
-    <div className="w-full h-[72px] bg-purple flex flex-col">
-      <div className="flex items-center justify-between p-4 gap-6 md:min-w-[700px] md:mx-auto lg:min-w-[1280px]">
+    <div className="w-full h-[72px] bg-purple flex f">
+      <div className="flex items-center justify-between p-4 gap-6 w-full md:max-w-[700px] md:mx-auto lg:max-w-[1280px]">
         <div>
           <Link href="/" className="cursor-pointer">
             <Image 
@@ -16,7 +16,7 @@ export default function Header() {
           </Link>
         </div>
         
-        <div className="flex flex-row gap-2.5 mr-10">
+        <div className="flex flex-row gap-2.5">
           <Image 
             src="/point-icon.svg" 
             alt="Ícone de mapa" 
@@ -39,7 +39,7 @@ export default function Header() {
           </div>
         </div>
         
-        <div className="flex items-center justify-center mr-10">
+        <div className="flex items-center justify-center">
           <button className="cursor-pointer">
             <Image 
               src="/person-icon.svg" 

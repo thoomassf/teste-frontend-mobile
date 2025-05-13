@@ -1,15 +1,23 @@
+import Image from "next/image";
 import Header from "@/components/header";
 import { formatPrice } from "@/utils/format-price";
+import ItemForm from "./item-form";
 
 import data from "../../../../../mocks/restaurants.json"
-import ItemForm from "./item-form";
-import Image from "next/image";
 
 export const metadata = {
   title: 'Aiqfome | Produto',
 }
 
-
+/**
+ * Renders a product page for a specific restaurant menu item option.
+ * 
+ * @param params - An object containing route parameters: catalogId, productId, and optionId
+ * @returns A React component displaying product details and an item form
+ * 
+ * This page fetches and displays details for a specific product option from a restaurant's menu,
+ * including the option name, price, description, and allows adding the item to an order.
+ */
 export default async function ProductPage({
   params,
 }: {

@@ -10,7 +10,21 @@ export const metadata = {
   title: 'Aiqfome | Restaurantes',
 }
 
+/**
+ * Renders the home page of the restaurant application.
+ * 
+ * Displays two sections of restaurants:
+ * - Open restaurants (not closed)
+ * - Closed restaurants
+ * 
+ * Uses data from a local JSON mock to populate restaurant items.
+ * Includes a responsive layout with a header, banner image, restaurant lists, and footer.
+ * 
+ * @returns {JSX.Element} The rendered home page component
+ */
 export default async function HomePage() {
+  // await new Promise(resolve => setTimeout(resolve, 2000))
+
   return (
     <div className='min-h-screen flex flex-col'>
       <Header />
@@ -40,7 +54,7 @@ export default async function HomePage() {
               isFreeShipping={unit.isFreeShipping}
             />
           ))}
-        </div>
+        </div>        
 
         <h1 className="text-xl font-extrabold text-purple pl-4 pt-8 pb-4">fechados</h1>
 

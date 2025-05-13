@@ -1,22 +1,31 @@
+import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import CatalogItem from "@/components/catalog-item";
 import Footer from "@/components/footer";
 import Header from "@/components/header";
 import RestaurantInfo from "@/components/restaurant-info";
-
-import data from "../../../mocks/restaurants.json"
-import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import DrinksList from "@/components/drinks-list";
 import Item from "@/components/catalog-item/item";
+
+import data from "../../../mocks/restaurants.json"
 
 export const metadata = {
   title: 'Aiqfome | Catálogo',
 }
 
+/**
+ * Renders the catalog page for a specific restaurant.
+ * 
+ * @param params - An object containing the restaurant's catalog ID
+ * @returns A React component displaying the restaurant's details, menu, drinks, and desserts
+ * @throws Renders a "Restaurant not found" message if the restaurant doesn't exist
+ */
 export default async function CatalogPage({
   params,
 }: {
   params: Promise<{ catalogId: string }>
 }) {
+  // await new Promise(resolve => setTimeout(resolve, 2000))
+  
   const { catalogId } = await params
 
   const restaurant = data.units.find(restaurant => restaurant.id === catalogId)

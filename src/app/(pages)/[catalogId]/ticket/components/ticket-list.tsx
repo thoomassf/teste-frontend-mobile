@@ -8,22 +8,24 @@ interface TicketListProps {
 }
 
 /**
- * Renders a list of ticket items for a specific catalog.
+ * Renders a list of tickets for a specific catalog.
  * 
  * @param {Object} props - The component props
- * @param {string} props.catalogId - The unique identifier for the catalog
+ * @param {string} props.catalogId - The unique identifier of the catalog
  * @returns {JSX.Element} A list of cart items or a message if no items are present
  */
 export default function TicketList({ catalogId }: TicketListProps) {
   const { ticket } = useTicket()
 
-  if (!ticket.length || !catalogId) {
+  const filteredTicket = ticket.filter(item => item.catalogId === catalogId)
+  
+  if (!catalogId || !filteredTicket.length || !filteredTicket[0].products.length) {
     return <div className="text-sm font-bold text-text-primary mt-6">Nenhum item adicionado</div>
   }
 
   return (
     <>
-      {ticket[0].products.map(product => {
+      {filteredTicket[0].products.map(product => {
         const prod = {
           id: product.id,
           name: product.name,

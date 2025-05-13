@@ -3,6 +3,7 @@
 import { useRouter } from "next/navigation";
 
 import { formatPrice } from "@/utils/format-price";
+import Image from "next/image";
 
 interface ItemProps {
   catalogId: string
@@ -16,6 +17,8 @@ interface ItemProps {
     to: number
   };
   isDessert?: boolean
+  vegan?: boolean;
+  spicy?: boolean;
 }
 
 export default function Item({
@@ -27,6 +30,8 @@ export default function Item({
   price,
   promotion,
   isDessert,
+  vegan,
+  spicy,
 }: ItemProps) {
   const router = useRouter()
 
@@ -42,7 +47,15 @@ export default function Item({
       onClick={handleClick}
     >
       <div>
-        <h3 className="font-bold text-text-tertiary text-sm">{title}</h3>
+        <div className="flex items-center gap-1">
+          <h3 className="font-bold text-text-tertiary text-sm">{title}</h3>
+          {vegan && (
+            <Image src="/vegan.svg" alt="vegan" width={16} height={16} />
+          )}
+          {spicy && (
+            <Image src="/hot.svg" alt="vegan" width={16} height={16} />
+          )}
+        </div>
         {description && (
           <p className="text-text-secondary text-xs text-justify mr-8 line-clamp-2">{description}</p>
         )}

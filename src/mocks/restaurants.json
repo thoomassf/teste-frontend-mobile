@@ -514,7 +514,7 @@
                   "from": 17,
                   "to": 13.9
                 },
-                "vegan": false,
+                "vegan": true,
                 "spicy": false
               },
               {
@@ -1342,7 +1342,7 @@
                   "from": 17,
                   "to": 13.9
                 },
-                "vegan": false,
+                "vegan": true,
                 "spicy": false
               },
               {
@@ -2445,12 +2445,12 @@
             "price": 7.0
           },
           {
-            "id": "508db480-5028-401e-83a8-ae02e367379a",
+            "id": "508db480-5028-401e-83a8-a1515619a",
             "name": "Del Valle Suco de Laranja",
             "price": 6.5
           },
           {
-            "id": "508db480-5028-401e-83a8-ae02e367379a",
+            "id": "508db480-5028-401e-83a8-ae021121379a",
             "name": "Del Valle Suco de Uva",
             "price": 6.5
           }
@@ -3258,7 +3258,7 @@
             "price": 7.0
           },
           {
-            "id": "508db480-5028-401e-83a8-ae02e367379a",
+            "id": "508db480-5028-401e-83a8-aedw1dw1d79a",
             "name": "Del Valle Suco de Laranja",
             "price": 6.5
           },
@@ -3796,7 +3796,7 @@
                   "from": 17,
                   "to": 13.9
                 },
-                "vegan": false,
+                "vegan": true,
                 "spicy": false
               },
               {

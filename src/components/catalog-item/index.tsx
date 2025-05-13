@@ -35,7 +35,6 @@ interface CatalogItemProps {
   title: string;
   description?: string | null;
   options: OptionProps[]
-  isUnique?: boolean
 }
 
 export default function CatalogItem({
@@ -43,9 +42,10 @@ export default function CatalogItem({
   productId,
   title,
   description,
-  isUnique = false,
   options,
 }: CatalogItemProps) {
+  const optionContainsPromotion = options.some(option => option.promotion?.from && option.promotion.to);
+
   return (
     <Accordion type="single" collapsible>
       <AccordionItem value="item-1" className="px-4 py-3 bg-white mb-1">
@@ -55,7 +55,7 @@ export default function CatalogItem({
               <h2 className="text-base font-bold text-text-tertiary">
                 {title}
               </h2>
-              {isUnique && (
+              {optionContainsPromotion && (
                 <Image 
                   src="/expense.svg" 
                   alt="Ícone de valor" 
@@ -82,6 +82,8 @@ export default function CatalogItem({
               description={option.description}
               price={option.price}
               promotion={option?.promotion}
+              vegan={option.vegan}
+              spicy={option.spicy}
             />
           ))}          
         </AccordionContent>

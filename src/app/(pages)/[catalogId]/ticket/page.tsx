@@ -2,9 +2,9 @@ import Image from "next/image";
 
 import Header from "@/components/header";
 import TicketList from "./components/ticket-list";
-import SubTotalLabel from "./components/sub-total-label";
 
 import data from "../../../../mocks/restaurants.json"
+import TicketFooter from "./components/ticket-footer";
 
 export const metadata = {
   title: 'Aiqfome | Ticket',
@@ -56,16 +56,7 @@ export default async function TicketPage({
           <TicketList catalogId={catalogId} />
         </div>
 
-        <div className="absolute bottom-0 w-full bg-white border-t z-50 py-4 px-6 flex flex-row items-center justify-center gap-3 md:px-10 md:max-w-[700px] md:mx-auto lg:max-w-[1200px]">
-          <div className="">
-            <h4 className="font-bold text-text-tertiary text-xs uppercase tracking-wide">subtotal</h4>
-            <SubTotalLabel />
-          </div>
-
-          <button className="text-white font-bold bg-purple px-10 py-4 rounded-md hover:bg-purple/90 transition-colors">
-            ir para pagamento
-          </button>
-        </div>
+        <TicketFooter />
       </main>
     </div>
   )

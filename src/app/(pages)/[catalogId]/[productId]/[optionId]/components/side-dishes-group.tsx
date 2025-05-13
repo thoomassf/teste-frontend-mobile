@@ -4,6 +4,7 @@ import AdditionalItem from "@/components/additional-item";
 import ItemLayout from "@/components/item-layout";
 import { useTicket } from "@/contexts/ticketContext";
 import { useSelectedItemIds } from "@/hooks/useSelectedItemIds";
+import { useEffect } from "react";
 
 interface SideDishesGroupProps {
   catalogId: string
@@ -18,21 +19,44 @@ interface SideDishesGroupProps {
   errorMessage?: string
 }
 
+/**
+ * Renders a group of side dishes with selection functionality.
+ * Allows users to select 1-2 side dishes for a product.
+ * 
+ * @param {Object} props - Component properties
+ * @param {Array} props.sideDishes - List of available side dishes
+ * @param {string} props.catalogId - Identifier for the current catalog
+ * @param {string} props.productId - Identifier for the current product
+ * @param {function} props.setIsSelected - Callback to update selection state
+ * @param {string} [props.errorMessage] - Optional error message to display
+ */
 export default function SideDishesGroup({ 
   sideDishes, 
   catalogId, 
   productId,
   setIsSelected,
-  isSelected,
   errorMessage,
 }: SideDishesGroupProps) {
   const { addToTicket, removeFromTicket } = useTicket()
   const { selectedIds } = useSelectedItemIds(catalogId, productId, "sideDishes")
   
-  const handleSizeSelected = () => {
-    setIsSelected(!isSelected)
-  }
+  /**
+   * Updates the parent component's selected state based on the number of selected side dishes.
+   * Sets the selection state to true if at least one side dish is selected.
+   */
+  useEffect(() => {
+    setIsSelected(selectedIds.length >= 1);
+  }, [selectedIds, setIsSelected]);
 
+  /**
+     * Handles toggling the selection of a side dish item.
+     * 
+     * @param {string} itemId - The unique identifier of the side dish item
+     * @description Manages side dish selection logic:
+     * - Removes item if already selected
+     * - Prevents selection beyond 2 side dishes
+     * - Adds selected side dish to ticket with specific metadata
+     */
   const handleToggle = (itemId: string) => {
     const isSelected = selectedIds.includes(itemId);
     

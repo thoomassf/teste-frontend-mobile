@@ -1,9 +1,21 @@
 import Image from "next/image";
 import Link from "next/link";
+import InputSearch from "./input-search";
 
-export default function Header() {
+interface HeaderProps {
+  viewSearch?: boolean;
+}
+
+/**
+ * Header component for the application, displaying logo, location, and user profile.
+ * 
+ * @param {Object} props - Component properties
+ * @param {boolean} [props.viewSearch=false] - Controls the visibility of the search input
+ * @returns {React.ReactElement} Rendered header with optional search input
+ */
+export default function Header({ viewSearch = false }: HeaderProps) {
   return (
-    <div className="w-full h-[72px] bg-purple flex f">
+    <div className={`w-full bg-purple flex flex-col gap-4 ${viewSearch ? 'h-[150px]' : 'h-[72px]'}`}>
       <div className="flex items-center justify-between p-4 gap-6 w-full md:max-w-[700px] md:mx-auto lg:max-w-[1280px]">
         <div>
           <Link href="/" className="cursor-pointer">
@@ -49,7 +61,11 @@ export default function Header() {
             />
           </button>
         </div>
-      </div>      
+      </div>
+
+      {viewSearch && (
+        <InputSearch />
+      )}
     </div>
   )
 }

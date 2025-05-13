@@ -28,6 +28,20 @@ interface OptionContentProps {
   initialPrice: number
 }
 
+/**
+ * Renders the option content page for a specific product, allowing users to customize and add items to their ticket.
+ * 
+ * @component
+ * @param {Object} props - The component props
+ * @param {string} props.catalogId - The ID of the current catalog
+ * @param {Product} props.productToAdd - The product being configured
+ * @param {string} props.optionId - The unique identifier for the product option
+ * @param {OptionProps} props.option - Detailed configuration options for the product
+ * @param {Array<{id: string, name: string, price: number}>} props.drinksOptions - Available drink options
+ * @param {number} props.initialPrice - The starting price for the product
+ * 
+ * @returns {React.ReactElement} A customizable product configuration interface
+ */
 export default function OptionContent({
   catalogId,
   productToAdd,
@@ -43,7 +57,13 @@ export default function OptionContent({
   const [sizeSelected, setSizeSelected] = useState<boolean>(false)
   const [sideDishesSelected, setSideDishesSelected] = useState<boolean>(false)
   const [errorMessage, setErrorMessage] = useState<string>('')
-
+  
+  /**
+   * Handles changes to the observation textarea, updating the local observation state
+   * and adding the observation to the ticket context.
+   * 
+   * @param {React.ChangeEvent<HTMLTextAreaElement>} e - The textarea change event
+   */
   const handleObservationChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     const newObservation = e.target.value
     setObservation(newObservation)
@@ -54,12 +74,20 @@ export default function OptionContent({
     })
   }
 
+  /**
+   * Handles navigation to the ticket page after validating required selections.
+   * 
+   * Checks if size and side dishes have been selected. If not, sets an error message.
+   * Otherwise, navigates to the ticket page for the current catalog.
+   * 
+   * @throws {void} Sets an error message if required selections are missing
+   * @returns {void} Navigates to the ticket page
+   */
   const handleViewTicket = () => {
     if (!sizeSelected || !sideDishesSelected) {
-      setErrorMessage("Item obrigatório")
+      setErrorMessage("Selecione os itens obrigatórios")
       return
     }
-
     router.push(`/${catalogId}/ticket`)
   }
 

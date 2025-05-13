@@ -2,6 +2,12 @@ interface ViewTicketFooterProps {
   onClickViewTicket: () => void
 }
 
+/**
+ * Footer component for displaying a ticket view section
+ * @param {Object} props - Component properties
+ * @param {() => void} props.onClickViewTicket - Callback function triggered when the "Ver Ticket" button is clicked
+ * @returns {React.ReactElement} A footer with a message and a button to view ticket details
+ */
 export default function ViewTicketFooter({ onClickViewTicket }: ViewTicketFooterProps) {
   return (
     <footer className="flex flex-col items-center justify-center py-6 px-4 mt-auto text-purple-bold bg-bg-tertiary">

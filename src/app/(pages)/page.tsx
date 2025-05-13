@@ -6,6 +6,12 @@ import RestaurantItem from "../../components/restaurant-item";
 
 import data from "../../mocks/restaurants.json"
 
+interface RestaurantsProps {
+  searchParams: {
+    q?: string
+  }
+}
+
 export const metadata = {
   title: 'Aiqfome | Restaurantes',
 }
@@ -22,12 +28,21 @@ export const metadata = {
  * 
  * @returns {JSX.Element} The rendered home page component
  */
-export default async function HomePage() {
+export default async function HomePage({ searchParams }: RestaurantsProps) {
   // await new Promise(resolve => setTimeout(resolve, 2000))
+  const query = searchParams.q?.toLocaleLowerCase() || ""
+
+  const filteredUnits = data.units.filter(unit => 
+    unit.name.toLowerCase().includes(query) ||
+    unit.unit.toLowerCase().includes(query)
+  )
+
+  const openRestaurants = filteredUnits.filter(unit => !unit.isClosed)
+  const closedRestaurants = filteredUnits.filter(unit => unit.isClosed)
 
   return (
     <div className='min-h-screen flex flex-col'>
-      <Header />
+      <Header viewSearch />
 
       <Image 
         src="/banner.png" 
@@ -41,7 +56,7 @@ export default async function HomePage() {
         <h1 className="text-xl font-extrabold text-purple pl-4 pt-6 pb-4">abertos</h1>
 
         <div className='md:grid md:grid-cols-4 lg:grid-cols-3 gap-4'>
-          {data.units.filter(unit => !unit.isClosed).map((unit) => (
+          {openRestaurants.map((unit) => (
             <RestaurantItem 
               key={unit.id} 
               id={unit.id}
@@ -59,7 +74,7 @@ export default async function HomePage() {
         <h1 className="text-xl font-extrabold text-purple pl-4 pt-8 pb-4">fechados</h1>
 
         <div className='md:grid md:grid-cols-4 lg:grid-cols-3 gap-4 mb-8'>
-          {data.units.filter(unit => unit.isClosed).map((unit) => (
+          {closedRestaurants.map((unit) => (
             <RestaurantItem
               key={unit.id}
               id={unit.id}

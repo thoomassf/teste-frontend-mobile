@@ -18,7 +18,7 @@ export default function TicketList({ catalogId }: TicketListProps) {
   const { ticket } = useTicket()
 
   if (!ticket.length || !catalogId) {
-    return <div>Nenhum item adicionado</div>
+    return <div className="text-sm font-bold text-text-primary mt-6">Nenhum item adicionado</div>
   }
 
   return (
@@ -33,6 +33,7 @@ export default function TicketList({ catalogId }: TicketListProps) {
           cutlery: product.cutlery,
           sideDishes: product.sideDishes,
           drinks: product.drinks,
+          observation: product.observation,
         }
 
         return (

@@ -1,9 +1,9 @@
 import Image from "next/image";
 import Header from "@/components/header";
 import { formatPrice } from "@/utils/format-price";
-import ItemForm from "./item-form";
 
 import data from "../../../../../mocks/restaurants.json"
+import OptionContent from "./option-content";
 
 export const metadata = {
   title: 'Aiqfome | Produto',
@@ -70,7 +70,7 @@ export default async function ProductPage({
           </div>
 
         </div>
-        <ItemForm 
+        <OptionContent 
           catalogId={catalogId}
           productToAdd={productToAdd}
           drinksOptions={restaurant.menu.drinks}

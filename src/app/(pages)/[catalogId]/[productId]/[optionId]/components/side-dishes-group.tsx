@@ -3,7 +3,7 @@
 import AdditionalItem from "@/components/additional-item";
 import ItemLayout from "@/components/item-layout";
 import { useTicket } from "@/contexts/ticketContext";
-import { useEffect, useState } from "react";
+import { useSelectedItemIds } from "@/hooks/useSelectedItemIds";
 
 interface SideDishesGroupProps {
   catalogId: string
@@ -26,26 +26,12 @@ export default function SideDishesGroup({
   isSelected,
   errorMessage,
 }: SideDishesGroupProps) {
-  const { ticket, addToTicket, removeFromTicket } = useTicket()
-  const [selectedIds, setSelectedIds] = useState<string[]>([]);
-
+  const { addToTicket, removeFromTicket } = useTicket()
+  const { selectedIds } = useSelectedItemIds(catalogId, productId, "sideDishes")
+  
   const handleSizeSelected = () => {
     setIsSelected(!isSelected)
   }
-
-  useEffect(() => {
-    const catalog = ticket.find(t => t.catalogId === catalogId);
-    const product = catalog?.products.find(p => p.id === productId);
-    const ids = product?.sideDishes?.map(item => item.id) || [];
-
-    setSelectedIds(ids);
-
-    if (selectedIds.length === 1) {
-      return
-    } else if (selectedIds.length === 0) {
-      handleSizeSelected();
-    }
-  }, [ticket, catalogId, productId]);
 
   const handleToggle = (itemId: string) => {
     const isSelected = selectedIds.includes(itemId);

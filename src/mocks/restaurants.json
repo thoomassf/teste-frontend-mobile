@@ -39,17 +39,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "74c7ec5a-9a0",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "d35b869b-959",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "b5d386ac-55a",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -57,29 +57,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "81375e5b-1af",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "021e10f1-95f",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "73f3dea8-8ea",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "5a471443-a90",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "2c8d59fe-d0a",
                     "name": "guioza",
                     "price": 6
                   }
@@ -108,17 +108,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "05d05c28-2ec",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "343fbbc1-1a6",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "9e01ae4e-e6b",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -126,29 +126,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "9c17d3d4-04a",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "1365ccfb-891",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "d7b1121f-51c",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "bbca8b59-eff",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "71c26024-314",
                     "name": "guioza",
                     "price": 6
                   }
@@ -177,17 +177,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "05d05c28-2ec",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "343fbbc1-1a6",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "9e01ae4e-e6b",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -195,29 +195,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "9c17d3d4-04a",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "1365ccfb-891",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "d7b1121f-51c",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "bbca8b59-eff",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "71c26024-314",
                     "name": "guioza",
                     "price": 6
                   }
@@ -253,17 +253,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "8032ee97-913",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "4f53f0dc-a34",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "38b9f3a5-df0",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -271,29 +271,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "a678921d-f3d",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "ec443caa-f07",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "ca04e3b2-b74",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "b79949cf-5bd",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "d7d07c77-f14",
                     "name": "guioza",
                     "price": 6
                   }
@@ -321,17 +321,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "375a8e27-1e4",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "c968c881-53e",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "7531a6bc-c7d",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -339,29 +339,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "f54bf45f-2f2",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "b7503591-65c",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "249d8ef8-1de",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "90c7efab-dc3",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "5acdd1ab-14a",
                     "name": "guioza",
                     "price": 6
                   }
@@ -389,17 +389,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "fe6f243c-322",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "d7241f75-562",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "b017624c-0f3",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -407,29 +407,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "ff39435c-69b",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "f629c9bd-bc0",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "bb97c5a4-cb6",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "cbcd325a-431",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "c796e34c-ebf",
                     "name": "guioza",
                     "price": 6
                   }
@@ -464,17 +464,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "d8d2ef1f-eda",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "d0adfa77-481",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "2d1b5f22-43d",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -482,29 +482,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "10dfc81f-43e",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "efbc257c-8c5",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "a2ce999a-c16",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "b39a4bbd-640",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "6e9cfd33-09e",
                     "name": "guioza",
                     "price": 6
                   }
@@ -532,17 +532,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "e76edf44-322",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "c3d96edf-a3f",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "1f5c49da-212",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -550,29 +550,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "c5afd95d-9df",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "29b9322d-19f",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "5ebd2d51-517",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "273f0c7e-c58",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "b2303bd0-760",
                     "name": "guioza",
                     "price": 6
                   }
@@ -600,17 +600,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "63b97865-872",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "f8193220-d36",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "b0f4207a-ab1",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -618,29 +618,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "6085e164-5c3",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "3b6cd0aa-ede",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "0ae201b7-e50",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "85b68ecb-75f",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "46b29200-6ab",
                     "name": "guioza",
                     "price": 6
                   }
@@ -668,17 +668,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "dd8073dc-635",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "bba15465-9fb",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "13e37151-400",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -686,29 +686,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "ca33afba-59a",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "c83a0c0d-395",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "b020b067-917",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "67d53fdb-77a",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "40aea823-d18",
                     "name": "guioza",
                     "price": 6
                   }
@@ -736,17 +736,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "ffa1663c-f10",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "e34fb059-623",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "931021ca-dc5",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -754,29 +754,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "82c3073a-17a",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "722f8b8f-c7c",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "2c53fba1-5a8",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "7bc3c086-134",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "0ca10290-cd1",
                     "name": "guioza",
                     "price": 6
                   }
@@ -825,7 +825,7 @@
             "name": "Tempurá de Sorvete",
             "price": 45.9
           }
-        ]       
+        ]
       }      
     },
     {
@@ -867,17 +867,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "74c7ec5a-9a0",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "d35b869b-959",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "b5d386ac-55a",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -885,29 +885,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "81375e5b-1af",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "021e10f1-95f",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "73f3dea8-8ea",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "5a471443-a90",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "2c8d59fe-d0a",
                     "name": "guioza",
                     "price": 6
                   }
@@ -936,17 +936,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "05d05c28-2ec",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "343fbbc1-1a6",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "9e01ae4e-e6b",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -954,29 +954,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "9c17d3d4-04a",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "1365ccfb-891",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "d7b1121f-51c",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "bbca8b59-eff",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "71c26024-314",
                     "name": "guioza",
                     "price": 6
                   }
@@ -1005,17 +1005,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "05d05c28-2ec",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "343fbbc1-1a6",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "9e01ae4e-e6b",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -1023,29 +1023,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "9c17d3d4-04a",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "1365ccfb-891",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "d7b1121f-51c",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "bbca8b59-eff",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "71c26024-314",
                     "name": "guioza",
                     "price": 6
                   }
@@ -1081,17 +1081,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "8032ee97-913",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "4f53f0dc-a34",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "38b9f3a5-df0",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -1099,29 +1099,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "a678921d-f3d",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "ec443caa-f07",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "ca04e3b2-b74",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "b79949cf-5bd",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "d7d07c77-f14",
                     "name": "guioza",
                     "price": 6
                   }
@@ -1149,17 +1149,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "375a8e27-1e4",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "c968c881-53e",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "7531a6bc-c7d",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -1167,29 +1167,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "f54bf45f-2f2",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "b7503591-65c",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "249d8ef8-1de",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "90c7efab-dc3",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "5acdd1ab-14a",
                     "name": "guioza",
                     "price": 6
                   }
@@ -1217,17 +1217,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "fe6f243c-322",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "d7241f75-562",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "b017624c-0f3",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -1235,29 +1235,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "ff39435c-69b",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "f629c9bd-bc0",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "bb97c5a4-cb6",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "cbcd325a-431",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "c796e34c-ebf",
                     "name": "guioza",
                     "price": 6
                   }
@@ -1292,17 +1292,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "d8d2ef1f-eda",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "d0adfa77-481",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "2d1b5f22-43d",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -1310,29 +1310,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "10dfc81f-43e",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "efbc257c-8c5",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "a2ce999a-c16",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "b39a4bbd-640",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "6e9cfd33-09e",
                     "name": "guioza",
                     "price": 6
                   }
@@ -1360,17 +1360,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "e76edf44-322",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "c3d96edf-a3f",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "1f5c49da-212",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -1378,29 +1378,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "c5afd95d-9df",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "29b9322d-19f",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "5ebd2d51-517",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "273f0c7e-c58",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "b2303bd0-760",
                     "name": "guioza",
                     "price": 6
                   }
@@ -1428,17 +1428,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "63b97865-872",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "f8193220-d36",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "b0f4207a-ab1",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -1446,29 +1446,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "6085e164-5c3",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "3b6cd0aa-ede",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "0ae201b7-e50",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "85b68ecb-75f",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "46b29200-6ab",
                     "name": "guioza",
                     "price": 6
                   }
@@ -1496,17 +1496,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "dd8073dc-635",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "bba15465-9fb",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "13e37151-400",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -1514,29 +1514,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "ca33afba-59a",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "c83a0c0d-395",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "b020b067-917",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "67d53fdb-77a",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "40aea823-d18",
                     "name": "guioza",
                     "price": 6
                   }
@@ -1564,17 +1564,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "ffa1663c-f10",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "e34fb059-623",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "931021ca-dc5",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -1582,29 +1582,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "82c3073a-17a",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "722f8b8f-c7c",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "2c53fba1-5a8",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "7bc3c086-134",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "0ca10290-cd1",
                     "name": "guioza",
                     "price": 6
                   }
@@ -1653,7 +1653,7 @@
             "name": "Tempurá de Sorvete",
             "price": 45.9
           }
-        ]       
+        ]
       }      
     },
     {
@@ -1695,17 +1695,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "0d0ef7c7-7fb",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "3b8fa16e-d9e",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "09190e9c-ac4",
                     "name": "maionese",
                     "price": 0
                   }
@@ -1713,29 +1713,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "9bbcf0ef-5b1",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "dbc4ee7c-dee",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "b2e23f36-47c",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "21560da9-640",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "c652ed2b-a54",
                     "name": "Carne",
                     "price": 10
                   }
@@ -1764,17 +1764,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "540c4418-9e0",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "7965cda0-a39",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "6aff5608-c2d",
                     "name": "maionese",
                     "price": 0
                   }
@@ -1782,29 +1782,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "6247853b-59e",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "6a49d940-c59",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "29f3657e-7e5",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "1c5f6096-fae",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "c28d6190-9c0",
                     "name": "Carne",
                     "price": 10
                   }
@@ -1816,7 +1816,7 @@
                 },
                 "vegan": false,
                 "spicy": false
-              }              
+              }
             ]
           },
           {
@@ -1826,8 +1826,8 @@
             "options": [
               {
                 "id": "7caa8125-b06c-4a6e-87dc-11dw1dw12aca",
-                 "name": "Sub de Frango",
-                 "description": "Sanduíche de frango grelhado com vegetais e molho à escolha.",
+                "name": "Sub de Frango",
+                "description": "Sanduíche de frango grelhado com vegetais e molho à escolha.",
                 "sizes": [
                   {
                     "size": "Médio",
@@ -1840,17 +1840,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "215dc8c7-5e2",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "da2eed60-eef",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "27841ea7-246",
                     "name": "maionese",
                     "price": 0
                   }
@@ -1858,29 +1858,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "2e10cfea-948",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "bee98fe8-927",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "8ec35de5-f3a",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "6890bf0d-a34",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "b4d42d70-fc8",
                     "name": "Carne",
                     "price": 10
                   }
@@ -1909,17 +1909,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "1dc6e905-0b8",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "f6f02ccd-204",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "0e92931a-f1d",
                     "name": "maionese",
                     "price": 0
                   }
@@ -1927,29 +1927,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "22de7f4e-75b",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "958b81cf-24d",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "68c8daf1-bff",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "af0d306d-280",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "68574afa-ced",
                     "name": "Carne",
                     "price": 10
                   }
@@ -1961,9 +1961,9 @@
                 },
                 "vegan": false,
                 "spicy": false
-              }              
+              }
             ]
-          }          
+          }
         ],
         "drinks": [
           {
@@ -2030,17 +2030,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "ffe9c76a-6f8",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "4d5fa686-33b",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "abbc3879-da5",
                     "name": "maionese",
                     "price": 0
                   }
@@ -2048,29 +2048,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "97f355a4-e55",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "ff17d0b4-574",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "c8321cfb-1fa",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "5d2a3492-175",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "67bce5b7-d18",
                     "name": "Carne",
                     "price": 10
                   }
@@ -2099,17 +2099,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "b046df3a-a99",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "15aaabe5-d64",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "026d74b3-fc0",
                     "name": "maionese",
                     "price": 0
                   }
@@ -2117,29 +2117,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "57ef8657-0c7",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "deaba0a0-869",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "7b96b50d-89b",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "63e15698-e10",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "9f47d9cc-562",
                     "name": "Carne",
                     "price": 10
                   }
@@ -2168,17 +2168,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "8f0f7e25-00c",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "56eb928b-e0c",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "57320f30-141",
                     "name": "maionese",
                     "price": 0
                   }
@@ -2186,29 +2186,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "28f2cbcd-88f",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "f689d8fc-626",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "47812a0b-bcd",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "4f036e48-b6f",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "8e788cab-65b",
                     "name": "Carne",
                     "price": 10
                   }
@@ -2244,17 +2244,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "6cf77aae-6ce",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "1ee70373-22d",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "a27bf88a-6f4",
                     "name": "maionese",
                     "price": 0
                   }
@@ -2262,29 +2262,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "9cf56e69-9b8",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "5aebbbeb-263",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "7a1573fe-91c",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "b5696957-78c",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "191d9e25-58a",
                     "name": "Carne",
                     "price": 10
                   }
@@ -2313,17 +2313,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "54e7658c-4a5",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "47e1114b-daf",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "5283fb97-50d",
                     "name": "maionese",
                     "price": 0
                   }
@@ -2331,29 +2331,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "12275adb-451",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "348ddb8c-320",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "84336a94-276",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "f77c9ec4-43e",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "0395a3d7-2db",
                     "name": "Carne",
                     "price": 10
                   }
@@ -2382,17 +2382,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "52a32489-b31",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "04e7d9a5-918",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "ee967784-5cf",
                     "name": "maionese",
                     "price": 0
                   }
@@ -2400,29 +2400,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "5f889d7c-208",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "0f2249ff-8ec",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "596c5a0b-059",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "2f58f169-11f",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "b9a3b5a7-670",
                     "name": "Carne",
                     "price": 10
                   }
@@ -2436,7 +2436,7 @@
                 "spicy": false
               }
             ]
-          }          
+          }
         ],
         "drinks": [
           {
@@ -2508,17 +2508,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "561b34f1-014",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "6c384b39-008",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "eef16710-0c4",
                     "name": "maionese",
                     "price": 0
                   }
@@ -2526,29 +2526,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "664937b8-58e",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "3fce0993-367",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "9920e8f0-e3d",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "598ac515-486",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "409e37a8-f47",
                     "name": "Carne",
                     "price": 10
                   }
@@ -2577,17 +2577,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "4d75d09f-d2a",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "7586508e-5dc",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "8324b753-046",
                     "name": "maionese",
                     "price": 0
                   }
@@ -2595,29 +2595,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "9838b099-d05",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "eeb9587b-e0a",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "ee255fa5-07f",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "b2cf22c3-9b6",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "a22ae5d6-265",
                     "name": "Carne",
                     "price": 10
                   }
@@ -2629,7 +2629,7 @@
                 },
                 "vegan": false,
                 "spicy": false
-              }              
+              }
             ]
           },
           {
@@ -2653,17 +2653,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "de0d4df4-096",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "d168ef6e-0f6",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "ff475453-ab4",
                     "name": "maionese",
                     "price": 0
                   }
@@ -2671,29 +2671,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "e4c4ff6e-eaf",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "1317a32e-832",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "1911d374-b17",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "47d849ad-036",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "3546e24b-e61",
                     "name": "Carne",
                     "price": 10
                   }
@@ -2722,17 +2722,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "5b8fdc24-a8d",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "3d220ab7-58a",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "f88fe999-96a",
                     "name": "maionese",
                     "price": 0
                   }
@@ -2740,29 +2740,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "f2f447e3-6dc",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "fdea4da0-c01",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "1cd1cd3a-5a1",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "ee4938a3-c34",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "7f0ec3ae-73e",
                     "name": "Carne",
                     "price": 10
                   }
@@ -2774,9 +2774,9 @@
                 },
                 "vegan": false,
                 "spicy": false
-              }              
+              }
             ]
-          }          
+          }
         ],
         "drinks": [
           {
@@ -2823,12 +2823,12 @@
       "menu": {
         "products": [
           {
-            "id": "3ce94be4-ecda-4664-8202-e56e2242421",
+            "id": "3ce94be4-ecda-4664-8202-e56e2b50a321",
             "name": "Combos",
             "description": "Hamburguer, batata frita e refrigerante",
             "options": [
               {
-                "id": "7caa8125-b06c-4a6e-87dc-4dv334vd82aca",
+                "id": "7caa8125-b06c-4a6e-87dc-4db932582aca",
                 "name": "Bic Mac",
                 "description": null,
                 "sizes": [
@@ -2843,17 +2843,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "ffe9c76a-6f8",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "4d5fa686-33b",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "abbc3879-da5",
                     "name": "maionese",
                     "price": 0
                   }
@@ -2861,29 +2861,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "97f355a4-e55",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "ff17d0b4-574",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "c8321cfb-1fa",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "5d2a3492-175",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "67bce5b7-d18",
                     "name": "Carne",
                     "price": 10
                   }
@@ -2897,7 +2897,7 @@
                 "spicy": false
               },
               {
-                "id": "d5f12a07-bb1f-415f-dwdw53325ccb0883a2",
+                "id": "d5f12a07-bb1f-415f-9b9f-2dfccb0883a2",
                 "name": "Cheddar Melt",
                 "description": null,
                 "sizes": [
@@ -2912,17 +2912,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "b046df3a-a99",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "15aaabe5-d64",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "026d74b3-fc0",
                     "name": "maionese",
                     "price": 0
                   }
@@ -2930,29 +2930,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "57ef8657-0c7",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "deaba0a0-869",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "7b96b50d-89b",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "63e15698-e10",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "9f47d9cc-562",
                     "name": "Carne",
                     "price": 10
                   }
@@ -2966,7 +2966,7 @@
                 "spicy": false
               },
               {
-                "id": "5c794984-023f-4e6c-b54c-2bc3geg333t31dcd",
+                "id": "5c794984-023f-4e6c-b54c-2bc3097d1dcd",
                 "name": "Quarteirão",
                 "description": null,
                 "sizes": [
@@ -2981,17 +2981,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "8f0f7e25-00c",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "56eb928b-e0c",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "57320f30-141",
                     "name": "maionese",
                     "price": 0
                   }
@@ -2999,29 +2999,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "28f2cbcd-88f",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "f689d8fc-626",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "47812a0b-bcd",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "4f036e48-b6f",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "8e788cab-65b",
                     "name": "Carne",
                     "price": 10
                   }
@@ -3037,12 +3037,12 @@
             ]
           },
           {
-            "id": "940b22af-97ca-4de3-aaea-0afffwf353535e2",
+            "id": "940b22af-97ca-4de3-aaea-0af3d9c9c5e2",
             "name": "Hambúrguer",
             "description": "Apenas o hambúrguer mais saboroso que você já experimentou!",
             "options": [
               {
-                "id": "7caa8125-b06c-4a6e-87dc-4dd2242rfs82aca",
+                "id": "7caa8125-b06c-4a6e-87dc-4db932582aca",
                 "name": "Bic Mac",
                 "description": null,
                 "sizes": [
@@ -3057,17 +3057,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "6cf77aae-6ce",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "1ee70373-22d",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "a27bf88a-6f4",
                     "name": "maionese",
                     "price": 0
                   }
@@ -3075,29 +3075,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "9cf56e69-9b8",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "5aebbbeb-263",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "7a1573fe-91c",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "b5696957-78c",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "191d9e25-58a",
                     "name": "Carne",
                     "price": 10
                   }
@@ -3126,17 +3126,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "54e7658c-4a5",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "47e1114b-daf",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "5283fb97-50d",
                     "name": "maionese",
                     "price": 0
                   }
@@ -3144,29 +3144,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "12275adb-451",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "348ddb8c-320",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "84336a94-276",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "f77c9ec4-43e",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "0395a3d7-2db",
                     "name": "Carne",
                     "price": 10
                   }
@@ -3195,17 +3195,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "52a32489-b31",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "04e7d9a5-918",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "ee967784-5cf",
                     "name": "maionese",
                     "price": 0
                   }
@@ -3213,29 +3213,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "5f889d7c-208",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "0f2249ff-8ec",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "596c5a0b-059",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "2f58f169-11f",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "b9a3b5a7-670",
                     "name": "Carne",
                     "price": 10
                   }
@@ -3249,33 +3249,33 @@
                 "spicy": false
               }
             ]
-          }          
+          }
         ],
         "drinks": [
           {
-            "id": "a7375a76-7f46-44e3-9b7f-7dwdw2382",
+            "id": "a7375a76-7f46-44e3-9b7f-79040285e182",
             "name": "Coca-Cola",
             "price": 7.0
           },
           {
-            "id": "508db480-5028-401e-83a8-ae02d224379a",
+            "id": "508db480-5028-401e-83a8-ae02e367379a",
             "name": "Del Valle Suco de Laranja",
             "price": 6.5
           },
           {
-            "id": "508db480-5028-401e-83a8-a1353f367379a",
+            "id": "508db480-5028-401e-83a8-ae02e367379a",
             "name": "Del Valle Suco de Uva",
             "price": 6.5
           }
         ],
         "desserts": [
           {
-            "id": "71831679-3bb3-4c2c-bd94-56f71541ccdc1a32",
+            "id": "71831679-3bb3-4c2c-bd94-56f721b41a32",
             "name": "Sundae",
             "price": 10.0
           },
           {
-            "id": "184f5305-2d92-4efc-b61f-f15135312rcc1bad",
+            "id": "184f5305-2d92-4efc-b61f-f15120301bad",
             "name": "Casquinha",
             "price": 5.5
           }
@@ -3321,17 +3321,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "74c7ec5a-9a0",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "d35b869b-959",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "b5d386ac-55a",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -3339,29 +3339,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "81375e5b-1af",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "021e10f1-95f",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "73f3dea8-8ea",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "5a471443-a90",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "2c8d59fe-d0a",
                     "name": "guioza",
                     "price": 6
                   }
@@ -3390,17 +3390,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "05d05c28-2ec",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "343fbbc1-1a6",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "9e01ae4e-e6b",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -3408,29 +3408,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "9c17d3d4-04a",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "1365ccfb-891",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "d7b1121f-51c",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "bbca8b59-eff",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "71c26024-314",
                     "name": "guioza",
                     "price": 6
                   }
@@ -3459,17 +3459,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "05d05c28-2ec",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "343fbbc1-1a6",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "9e01ae4e-e6b",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -3477,29 +3477,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "9c17d3d4-04a",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "1365ccfb-891",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "d7b1121f-51c",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "bbca8b59-eff",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "71c26024-314",
                     "name": "guioza",
                     "price": 6
                   }
@@ -3535,17 +3535,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "8032ee97-913",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "4f53f0dc-a34",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "38b9f3a5-df0",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -3553,29 +3553,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "a678921d-f3d",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "ec443caa-f07",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "ca04e3b2-b74",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "b79949cf-5bd",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "d7d07c77-f14",
                     "name": "guioza",
                     "price": 6
                   }
@@ -3603,17 +3603,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "375a8e27-1e4",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "c968c881-53e",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "7531a6bc-c7d",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -3621,29 +3621,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "f54bf45f-2f2",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "b7503591-65c",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "249d8ef8-1de",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "90c7efab-dc3",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "5acdd1ab-14a",
                     "name": "guioza",
                     "price": 6
                   }
@@ -3671,17 +3671,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "fe6f243c-322",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "d7241f75-562",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "b017624c-0f3",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -3689,29 +3689,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "ff39435c-69b",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "f629c9bd-bc0",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "bb97c5a4-cb6",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "cbcd325a-431",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "c796e34c-ebf",
                     "name": "guioza",
                     "price": 6
                   }
@@ -3746,17 +3746,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "d8d2ef1f-eda",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "d0adfa77-481",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "2d1b5f22-43d",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -3764,29 +3764,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "10dfc81f-43e",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "efbc257c-8c5",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "a2ce999a-c16",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "b39a4bbd-640",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "6e9cfd33-09e",
                     "name": "guioza",
                     "price": 6
                   }
@@ -3814,17 +3814,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "e76edf44-322",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "c3d96edf-a3f",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "1f5c49da-212",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -3832,29 +3832,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "c5afd95d-9df",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "29b9322d-19f",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "5ebd2d51-517",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "273f0c7e-c58",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "b2303bd0-760",
                     "name": "guioza",
                     "price": 6
                   }
@@ -3882,17 +3882,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "63b97865-872",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "f8193220-d36",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "b0f4207a-ab1",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -3900,29 +3900,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "6085e164-5c3",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "3b6cd0aa-ede",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "0ae201b7-e50",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "85b68ecb-75f",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "46b29200-6ab",
                     "name": "guioza",
                     "price": 6
                   }
@@ -3942,8 +3942,7 @@
                 "sizes": [
                   {
                     "size": "Médio",
-                    "price": 20.9 
-                  },
+                    "price": 20.9                  },
                   {
                     "size": "Grande",
                     "price": 29.9
@@ -3951,17 +3950,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "dd8073dc-635",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "bba15465-9fb",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "13e37151-400",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -3969,29 +3968,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "ca33afba-59a",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "c83a0c0d-395",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "b020b067-917",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "67d53fdb-77a",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "40aea823-d18",
                     "name": "guioza",
                     "price": 6
                   }
@@ -4019,17 +4018,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "ffa1663c-f10",
                     "name": "shoyu",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "e34fb059-623",
                     "name": "Gengibre",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "931021ca-dc5",
                     "name": "Wasabi",
                     "price": 0
                   }
@@ -4037,29 +4036,29 @@
                 "drinkIncluded": false,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "82c3073a-17a",
                     "name": "Hashi",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "722f8b8f-c7c",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "2c53fba1-5a8",
                     "name": "biscoito da sorte",
                     "price": 2
                   },
                   {
-                    "id": "2",
+                    "id": "7bc3c086-134",
                     "name": "rolinho primavera",
                     "price": 8
                   },
                   {
-                    "id": "3",
+                    "id": "0ca10290-cd1",
                     "name": "guioza",
                     "price": 6
                   }
@@ -4108,7 +4107,7 @@
             "name": "Tempurá de Sorvete",
             "price": 45.9
           }
-        ]       
+        ]
       }      
     },
     {
@@ -4130,12 +4129,12 @@
       "menu": {
         "products": [
           {
-            "id": "3ce94be4-ecda-4664-8202-e1w1d3w1d32w1d3",
+            "id": "3ce94be4-ecda-4664-8202-e564648941121",
             "name": "Combos",
             "description": "Hamburguer, batata frita e refrigerante",
             "options": [
               {
-                "id": "7caa8125-b06c-4a6e-87dc-41d5w1d35w548949a",
+                "id": "7caa8125-b06c-4a6e-87dc-4dv334146548949a",
                 "name": "Whopper",
                 "description": "Hambúrguer grelhado no fogo com vegetais frescos e maionese.",
                 "sizes": [
@@ -4150,17 +4149,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "561b34f1-014",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "6c384b39-008",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "eef16710-0c4",
                     "name": "maionese",
                     "price": 0
                   }
@@ -4168,29 +4167,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "664937b8-58e",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "3fce0993-367",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "9920e8f0-e3d",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "598ac515-486",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "409e37a8-f47",
                     "name": "Carne",
                     "price": 10
                   }
@@ -4204,7 +4203,7 @@
                 "spicy": false
               },
               {
-                "id": "d5f12a07-bb1f-415f-d21dw62d65w843213a2",
+                "id": "d5f12a07-bb1f-415f-dwdw535154843213a2",
                 "name": "Chicken Sandwich",
                 "description": "Sanduíche de frango empanado com alface e maionese.",
                 "sizes": [
@@ -4219,17 +4218,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "4d75d09f-d2a",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "7586508e-5dc",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "8324b753-046",
                     "name": "maionese",
                     "price": 0
                   }
@@ -4237,29 +4236,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "9838b099-d05",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "eeb9587b-e0a",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "ee255fa5-07f",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "b2cf22c3-9b6",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "a22ae5d6-265",
                     "name": "Carne",
                     "price": 10
                   }
@@ -4271,16 +4270,16 @@
                 },
                 "vegan": false,
                 "spicy": false
-              }              
+              }
             ]
           },
           {
-            "id": "940b22af-97ca-4de3-aaea-0aff1w1dw51d23wwd2",
+            "id": "940b22af-97ca-4de3-aaea-0aff1w5d1wd2",
             "name": "Hambúrguer",
             "description": "Apenas o hambúrguer mais saboroso que você já experimentou!",
             "options": [
               {
-                "id": "7caa8125-b06c-4a6e-87dc-11d2ddwdw6ds82aca",
+                "id": "7caa8125-b06c-4a6e-87dc-11dw5d1w56ds82aca",
                 "name": "Whopper",
                 "description": "Hambúrguer grelhado no fogo com vegetais frescos e maionese.",
                 "sizes": [
@@ -4295,17 +4294,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "de0d4df4-096",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "d168ef6e-0f6",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "ff475453-ab4",
                     "name": "maionese",
                     "price": 0
                   }
@@ -4313,29 +4312,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "e4c4ff6e-eaf",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "1317a32e-832",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "1911d374-b17",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "47d849ad-036",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "3546e24b-e61",
                     "name": "Carne",
                     "price": 10
                   }
@@ -4349,7 +4348,7 @@
                 "spicy": false
               },
               {
-                "id": "7caa8125-b06c-4a6e-87dc-4d1wd1w56d136ca",
+                "id": "7caa8125-b06c-4a6e-87dc-4db1dw1d5w1d65ddd36ca",
                 "name": "Chicken Sandwich",
                 "description": "Sanduíche de frango empanado com alface e maionese.",
                 "sizes": [
@@ -4364,17 +4363,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "5b8fdc24-a8d",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "3d220ab7-58a",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "f88fe999-96a",
                     "name": "maionese",
                     "price": 0
                   }
@@ -4382,29 +4381,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "f2f447e3-6dc",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "fdea4da0-c01",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "1cd1cd3a-5a1",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "ee4938a3-c34",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "7f0ec3ae-73e",
                     "name": "Carne",
                     "price": 10
                   }
@@ -4416,9 +4415,9 @@
                 },
                 "vegan": false,
                 "spicy": false
-              }              
+              }
             ]
-          }          
+          }
         ],
         "drinks": [
           {
@@ -4465,12 +4464,12 @@
       "menu": {
         "products": [
           {
-            "id": "3ce94be4-ecda-4664-8202-e1w11w32d96w2dd3",
+            "id": "3ce94be4-ecda-4664-8202-e1w11w4d8w1w1d3",
             "name": "Combos",
             "description": "Sanduíche, batata frita e refrigerante",
             "options": [
               {
-                "id": "7caa8125-b06c-4a6e-87dc-41d5w11d5w1d68949a",
+                "id": "7caa8125-b06c-4a6e-87dc-41d5w1d65w1d6w8949a",
                 "name": "Sub de Frango",
                 "description": "Sanduíche de frango grelhado com vegetais e molho à escolha.",
                 "sizes": [
@@ -4485,17 +4484,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "0d0ef7c7-7fb",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "3b8fa16e-d9e",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "09190e9c-ac4",
                     "name": "maionese",
                     "price": 0
                   }
@@ -4503,29 +4502,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "9bbcf0ef-5b1",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "dbc4ee7c-dee",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "b2e23f36-47c",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "21560da9-640",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "c652ed2b-a54",
                     "name": "Carne",
                     "price": 10
                   }
@@ -4539,7 +4538,7 @@
                 "spicy": false
               },
               {
-                "id": "d5f12a07-bb1f-415f-d221dw16d5w6513a2",
+                "id": "d5f12a07-bb1f-415f-d21dw651dw6513a2",
                 "name": "Sub de Atum",
                 "description": "Sanduíche com pasta de atum e vegetais frescos.",
                 "sizes": [
@@ -4554,17 +4553,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "540c4418-9e0",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "7965cda0-a39",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "6aff5608-c2d",
                     "name": "maionese",
                     "price": 0
                   }
@@ -4572,29 +4571,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "6247853b-59e",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "6a49d940-c59",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "29f3657e-7e5",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "1c5f6096-fae",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "c28d6190-9c0",
                     "name": "Carne",
                     "price": 10
                   }
@@ -4606,18 +4605,18 @@
                 },
                 "vegan": false,
                 "spicy": false
-              }              
+              }
             ]
           },
           {
-            "id": "940b22af-97ca-4de3-aaea-0af122d3w612dwd2",
+            "id": "940b22af-97ca-4de3-aaea-0af12wd51w65d3wwd2",
             "name": "Sanduíches",
             "description": "Apenas o Sanduíche mais saboroso que você já experimentou!",
             "options": [
               {
-                "id": "7caa8125-b06c-4a6e-87dc-11d2d32w1g1aca",
-                 "name": "Sub de Frango",
-                 "description": "Sanduíche de frango grelhado com vegetais e molho à escolha.",
+                "id": "7caa8125-b06c-4a6e-87dc-11dw1dw12aca",
+                "name": "Sub de Frango",
+                "description": "Sanduíche de frango grelhado com vegetais e molho à escolha.",
                 "sizes": [
                   {
                     "size": "Médio",
@@ -4630,17 +4629,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "215dc8c7-5e2",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "da2eed60-eef",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "27841ea7-246",
                     "name": "maionese",
                     "price": 0
                   }
@@ -4648,29 +4647,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "2e10cfea-948",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "bee98fe8-927",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "8ec35de5-f3a",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "6890bf0d-a34",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "b4d42d70-fc8",
                     "name": "Carne",
                     "price": 10
                   }
@@ -4684,7 +4683,7 @@
                 "spicy": false
               },
               {
-                "id": "7caa8125-b06c-4a6e-87dc-4ddwd21w3d1ca",
+                "id": "7caa8125-b06c-4a6e-87dc-4ddw1d56w16ca",
                 "name": "Sub de Atum",
                 "description": "Sanduíche com pasta de atum e vegetais frescos.",
                 "sizes": [
@@ -4699,17 +4698,17 @@
                 ],
                 "sideDishes": [
                   {
-                    "id": "1",
+                    "id": "1dc6e905-0b8",
                     "name": "ketchup",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "f6f02ccd-204",
                     "name": "mostarda",
                     "price": 0
                   },
                   {
-                    "id": "3",
+                    "id": "0e92931a-f1d",
                     "name": "maionese",
                     "price": 0
                   }
@@ -4717,29 +4716,29 @@
                 "drinkIncluded": true,
                 "cutlery": [
                   {
-                    "id": "1",
+                    "id": "22de7f4e-75b",
                     "name": "guardanapo",
                     "price": 0
                   },
                   {
-                    "id": "2",
+                    "id": "958b81cf-24d",
                     "name": "Garfo e faca descartável",
                     "price": 1
                   }
                 ],
                 "additionalRequest": [
                   {
-                    "id": "1",
+                    "id": "68c8daf1-bff",
                     "name": "Bacon",
                     "price": 8
                   },
                   {
-                    "id": "2",
+                    "id": "af0d306d-280",
                     "name": "Chedar",
                     "price": 6
                   },
                   {
-                    "id": "3",
+                    "id": "68574afa-ced",
                     "name": "Carne",
                     "price": 10
                   }
@@ -4751,30 +4750,30 @@
                 },
                 "vegan": false,
                 "spicy": false
-              }              
+              }
             ]
-          }          
+          }
         ],
         "drinks": [
           {
-            "id": "c3e8a807-5ca7-4611-9d2e-71d3w1dd19a",
+            "id": "c3e8a807-5ca7-4611-9d2e-7284ebf6d19a",
             "name": "Suco Natural",
             "price": 7.0
           },
           {
-            "id": "cc197f82-cbf6-4b98-b4d4-2fa32dw2da",
+            "id": "cc197f82-cbf6-4b98-b4d4-2faf0000ad7a",
             "name": "Água Mineral",
             "price": 4.0
           }
         ],
         "desserts": [
           {
-            "id": "3be32553-3d76-43aa-aab4-05881d23w1d8c",
+            "id": "3be32553-3d76-43aa-aab4-058821c4ee8c",
             "name": "Cookie de Chocolate",
             "price": 4.5
           },
           {
-            "id": "84e5873f-2042-416c-93d7-7901d3521w5153",
+            "id": "84e5873f-2042-416c-93d7-7901e51f5153",
             "name": "Brownie",
             "price": 6.0
           }

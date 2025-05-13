@@ -3,7 +3,7 @@
 import AdditionalItem from "@/components/additional-item";
 import ItemLayout from "@/components/item-layout";
 import { useTicket } from "@/contexts/ticketContext";
-import { useEffect, useState } from "react";
+import { useSelectedItemIds } from "@/hooks/useSelectedItemIds";
 
 interface AdditionalItemsGroupProps {
   catalogId: string
@@ -20,15 +20,8 @@ export default function AdditionalItemsGroup({
   catalogId, 
   productId 
 }: AdditionalItemsGroupProps) {
-  const { ticket, addToTicket, removeFromTicket } = useTicket()
-  const [selectedIds, setSelectedIds] = useState<string[]>([]);
-
-  useEffect(() => {
-    const catalog = ticket.find(t => t.catalogId === catalogId);
-    const product = catalog?.products.find(p => p.id === productId);
-    const ids = product?.additionalItems?.map(item => item.id) || [];
-    setSelectedIds(ids);
-  }, [ticket, catalogId, productId]);
+  const { addToTicket, removeFromTicket } = useTicket()
+  const { selectedIds } = useSelectedItemIds(catalogId, productId, "additionalItems")
 
   const handleToggle = (additionalId: string) => {    
     const isSelected = selectedIds.includes(additionalId);

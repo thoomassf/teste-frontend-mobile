@@ -103,8 +103,17 @@ export const TicketProvider = ({ children }: { children: React.ReactNode }) => {
           const updatedParent = addExtraItemToProduct(products[parentIndex], productToAdd, options)
           products[parentIndex] = updatedParent
         } else {          
-          const updatedProducts = addOrUpdateMainProduct(products, productToAdd)
+          let product = productToAdd
+
+          if (options?.observation) {
+            product = { ...productToAdd, observation: options.observation }
+          }
+
+          const updatedProducts = addOrUpdateMainProduct(products, product)
+
           catalog.products = updatedProducts
+          updatedTicket[catalogIndex] = catalog
+          return updatedTicket
         }
 
         catalog.products = products

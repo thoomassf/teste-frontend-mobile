@@ -17,7 +17,12 @@ export default function useOperationsTicket() {
     options?: AddToTicketOptions
   ): TicketItem[] | null  => {
     const catalogIndex = prev.findIndex((item) => item.catalogId === catalogId)
-    if (catalogIndex === -1 && !options?.isAdditionalItem && !options?.isDrink && !options?.isSideDish && !options?.isCutlery) {
+    if (catalogIndex === -1  
+      && !options?.isAdditionalItem 
+      && !options?.isDrink 
+      && !options?.isSideDish 
+      && !options?.isCutlery 
+    ) {
       return [...prev, { catalogId, products: [{ ...productToAdd }] }]
     }
     return null
@@ -74,7 +79,8 @@ export default function useOperationsTicket() {
       const updated = [...products]
       updated[existingIndex] = {
         ...updated[existingIndex],
-        quantity: updated[existingIndex].quantity + 1
+        quantity: updated[existingIndex].quantity + 1,
+        observation: productToAdd.observation,
       }
       return updated
     } else {

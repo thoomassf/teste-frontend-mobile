@@ -1,20 +1,21 @@
 'use client'
 
+import { useState } from "react"
+import { useRouter } from "next/navigation"
 import { formatPrice } from "@/utils/format-price"
+import { Textarea } from "@/components/ui/textarea"
 import AddTicket from "./components/add-ticket-button"
-import type { Product } from "@/types/Product"
 import ProductSizesGroup from "./components/product-size-group"
 import SideDishesGroup from "./components/side-dishes-group"
 import DrinksList from "@/components/drinks-list"
 import CutleryGroup from "./components/cutlery-group"
 import AdditionalItemsGroup from "./components/additional-items-group"
-import type { OptionProps } from "@/types/Option"
-import { Textarea } from "@/components/ui/textarea"
 import ViewTicketFooter from "./components/view-ticket-footer"
-import { useRouter } from "next/navigation"
-import { useState } from "react"
+import type { OptionProps } from "@/types/Option"
+import type { Product } from "@/types/Product"
+import { useTicket } from "@/contexts/ticketContext"
 
-interface ItemFormProps {
+interface OptionContentProps {
   catalogId: string
   productToAdd: Product
   optionId: string
@@ -27,27 +28,34 @@ interface ItemFormProps {
   initialPrice: number
 }
 
-export default function ItemForm({
+export default function OptionContent({
   catalogId,
   productToAdd,
   optionId,
   option,
   drinksOptions,
   initialPrice,
-}: ItemFormProps) {
+}: OptionContentProps) {
   const router = useRouter()
+  const { addToTicket } = useTicket()
 
+  const [observation, setObservation] = useState<string>('')
   const [sizeSelected, setSizeSelected] = useState<boolean>(false)
   const [sideDishesSelected, setSideDishesSelected] = useState<boolean>(false)
   const [errorMessage, setErrorMessage] = useState<string>('')
 
-  const handleViewTicket = () => {
-    if (!sizeSelected) {
-      setErrorMessage("Item obrigatório")
-      return
-    }
+  const handleObservationChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
+    const newObservation = e.target.value
+    setObservation(newObservation)
 
-    if (!sideDishesSelected) {
+    addToTicket(catalogId, productToAdd, {
+      observation: newObservation,
+      parentProductId: optionId
+    })
+  }
+
+  const handleViewTicket = () => {
+    if (!sizeSelected || !sideDishesSelected) {
       setErrorMessage("Item obrigatório")
       return
     }
@@ -79,7 +87,7 @@ export default function ItemForm({
         setIsSelected={setSizeSelected}
         isSelected={sizeSelected}
         errorMessage={errorMessage}
-      />      
+      />
 
       <SideDishesGroup 
         catalogId={catalogId}
@@ -113,7 +121,11 @@ export default function ItemForm({
 
       <div className="bg-white py-6 px-4">
         <div className="flex flex-col items-center w-full border border-text-secondary rounded-md">
-          <Textarea name="" id="" placeholder="Alguma observação do item? • opcional ex: tirar algum ingrediente, ponto do prato" />
+          <Textarea 
+            placeholder="Alguma observação do item? • opcional ex: tirar algum ingrediente, ponto do prato" 
+            value={observation}
+            onChange={handleObservationChange}
+          />
         </div>
       </div>
 

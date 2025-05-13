@@ -29,6 +29,7 @@ export type TicketContextType = {
     isSideDish?: boolean
     isCutlery?: boolean
     parentProductId?: string
+    observation?: string
   }) => void;
   removeFromTicket: (id: string) => void;
   removeProductFromTicket: (productId: string) => void;

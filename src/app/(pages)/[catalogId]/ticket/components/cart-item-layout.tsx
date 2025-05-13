@@ -26,7 +26,7 @@ interface CartItemLayoutProps {
 export default function CartItemLayout({ product, catalogId }: CartItemLayoutProps) {
   const router = useRouter()
 
-  const { id, name, price, additionalItems, cutlery, drinks, sideDishes } = product
+  const { id, name, price, additionalItems, cutlery, drinks, sideDishes, observation } = product
 
   /**
    * Extracts product quantity control hooks and methods for a specific product in a ticket context.
@@ -159,7 +159,15 @@ export default function CartItemLayout({ product, catalogId }: CartItemLayoutPro
               ]}
             />
           ))
-        )}        
+        )}  
+
+        {observation && (
+          <div className="w-fit max-w-full bg-[#F5F6F9] rounded-md mt-1.5 md:max-w-[600px]">
+            <p className="text-xs font-bold text-text-primary p-1.5 break-words">
+              <strong>observação:</strong> {observation}
+            </p>
+          </div>
+        )}      
       </div>
     </div>
   )
